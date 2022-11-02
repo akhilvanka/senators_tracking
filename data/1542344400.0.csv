@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/09/2018
+                                    ",11/16/2018,Peters,Gary C,Purchase,"
+GIS
+","
+                                        
+                                            General Mills, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/30/2018
+                                    ",11/16/2018,Peters,Gary C,Sale (Full),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/30/2018
+                                    ",11/16/2018,Peters,Gary C,Purchase,"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,60 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/19/2018
+                                    ",12/21/2018,Whitehouse,Sheldon,Sale (Partial),"
+F
+","
+                                        
+                                            Ford Motor Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/19/2018
+                                    ",12/21/2018,Whitehouse,Sheldon,Sale (Full),"
+KHC
+","
+                                        
+                                            The Kraft Heinz Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/19/2018
+                                    ",12/21/2018,Whitehouse,Sheldon,Sale (Partial),"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/19/2018
+                                    ",12/21/2018,Whitehouse,Sheldon,Sale (Partial),"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/29/2018
+                                    ",12/21/2018,Whitehouse,Sheldon,Exchange,"
+AET
+
+CVS
+","
+                                        
+                                            Aetna Inc. (Exchanged)
+                                            
+                                            CVS Health Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

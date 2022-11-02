@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/18/2020
+                                    ",03/04/2020,Roberts,Pat,Purchase,"
+WMT
+","
+                                        
+                                            Walmart Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2020
+                                    ",03/04/2020,Roberts,Pat,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/11/2020
+                                    ",03/04/2020,Roberts,Pat,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

@@ -1,0 +1,38 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/10/2021
+                                    ",06/08/2021,Capito,Shelley M,Sale (Partial),"
+WFC
+","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/25/2021
+                                    ",06/08/2021,Capito,Shelley M,Sale (Full),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/17/2021
+                                    ",06/08/2021,"Hagerty, IV",William F,Exchange,"
+FL4.SG
+
+TDY
+","
+                                        
+                                            FLIR SYSTEMS INC. Registered Sh (Exchanged)
+                                            
+                                            Teledyne Technologies Incorporated (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

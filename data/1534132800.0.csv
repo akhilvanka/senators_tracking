@@ -1,0 +1,219 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/18/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Full),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/30/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/15/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+PHLD
+","
+                                        
+                                            PHILLIPS EDISON GR
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        01/08/2018
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Full),"
+PFS
+","
+                                        
+                                            Provident Financial Services, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/08/2018
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2018
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+PFS
+","
+                                        
+                                            Provident Financial Services, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Partial),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/07/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Full),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.8% Matures: 02/15/2019
+","$15,001 - $50,000"
+"
+                                        03/08/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $210.00
+                                                
+Expires: 06/30/2017
+                                            
+","$1,001 - $15,000"
+"
+                                        02/13/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/22/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+TRV
+","
+                                        
+                                            The Travelers Companies, Inc.
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.8% Matures: 05/15/2018
+","$1,001 - $15,000"
+"
+                                        02/22/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+DD
+","
+                                        
+                                            E. I. du Pont de Nemours and Company
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 6% Matures: 07/15/2018
+","$15,001 - $50,000"
+"
+                                        01/27/2017
+                                    ",08/13/2018,Toomey,Patrick J,Sale (Full),"
+VZ
+","
+                                        
+                                            Verizon Communications Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/25/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.8% Matures: 02/15/2019
+","$15,001 - $50,000"
+"
+                                        01/25/2017
+                                    ",08/13/2018,Toomey,Patrick J,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 5.5% Matures: 03/15/2018
+","$15,001 - $50,000"

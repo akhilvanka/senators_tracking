@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/18/2020
+                                    ",09/16/2020,"King, Jr.",Angus S,Purchase,"
+VZ
+","
+                                        
+                                            Verizon Communications Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/18/2020
+                                    ",09/16/2020,"King, Jr.",Angus S,Sale (Full),"
+SLB
+","
+                                        
+                                            Schlumberger Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/18/2020
+                                    ",09/16/2020,"King, Jr.",Angus S,Sale (Full),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/18/2020
+                                    ",09/16/2020,"King, Jr.",Angus S,Sale (Full),"
+COP
+","
+                                        
+                                            ConocoPhillips
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

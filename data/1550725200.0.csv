@@ -1,0 +1,135 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Sale (Full),"
+PPG
+","
+                                        
+                                            PPG Industries, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+NVS
+","
+                                        
+                                            Novartis AG
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+MDT
+","
+                                        
+                                            Medtronic plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+DWDP
+","
+                                        
+                                            DowDuPont Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+CMCSA
+","
+                                        
+                                            Comcast Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2019
+                                    ",02/21/2019,Cassidy,William,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2019
+                                    ",02/21/2019,Toomey,Patrick J,Sale (Full),"
+AX
+","
+                                        
+                                            Axos Financial, Inc.
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 2.3% Matures: 01/28/2019
+","$100,001 - $250,000"
+"
+                                        01/31/2019
+                                    ",02/21/2019,Toomey,Patrick J,Purchase,"
+TNTOF
+","
+                                        
+                                            The Toronto-Dominion Bank
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 3.25 Matures: 06/11/2021
+","$15,001 - $50,000"

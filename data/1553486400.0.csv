@@ -1,0 +1,78 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Sale (Partial),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Purchase,"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Sale (Full),"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Sale (Partial),"
+NSRGY
+","
+                                        
+                                            Nestlé S.A.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Purchase,"
+PEP
+","
+                                        
+                                            PepsiCo, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/27/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Purchase,"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2019
+                                    ",03/25/2019,Whitehouse,Sheldon,Sale (Partial),"
+HAS
+","
+                                        
+                                            Hasbro, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

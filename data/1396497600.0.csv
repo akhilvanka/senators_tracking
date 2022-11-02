@@ -1,0 +1,144 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/05/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+KSU
+","
+                                        
+                                            Kansas City Southern (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/10/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/14/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/14/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/07/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/07/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+BIDU
+","
+                                        
+                                            Baidu, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/06/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/06/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/06/2014
+                                    ",04/03/2014,Roberts,Pat,Purchase,"
+BIDU
+","
+                                        
+                                            Baidu, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/03/2014
+                                    ",04/03/2014,Roberts,Pat,Sale (Full),"
+BIDU
+","
+                                        
+                                            Baidu, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/05/2014
+                                    ",04/03/2014,Roberts,Pat,Sale (Partial),"
+FB
+","
+                                        
+                                            Facebook, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/05/2014
+                                    ",04/03/2014,Roberts,Pat,Sale (Partial),"
+FB
+","
+                                        
+                                            Facebook, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/03/2014
+                                    ",04/03/2014,Roberts,Pat,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"

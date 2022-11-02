@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/29/2020
+                                    ",07/08/2020,Roberts,Pat,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/29/2020
+                                    ",07/08/2020,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/04/2020
+                                    ",07/08/2020,Roberts,Pat,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/29/2020
+                                    ",07/08/2020,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/29/2020
+                                    ",07/08/2020,Roberts,Pat,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/11/2020
+                                    ",07/08/2020,Roberts,Pat,Sale (Full),"
+BYND
+","
+                                        
+                                            Beyond Meat, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

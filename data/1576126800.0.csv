@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/19/2019
+                                    ",12/12/2019,Hoeven,John,Purchase,"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        11/19/2019
+                                    ",12/12/2019,Hoeven,John,Purchase,"
+BSTZ
+","
+                                        
+                                            BlackRock Science and Technology Trust II
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        12/04/2019
+                                    ",12/12/2019,"McConnell, Jr.",A. Mitchell,Purchase,"
+WFC
+","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

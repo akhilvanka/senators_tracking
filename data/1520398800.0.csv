@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/15/2018
+                                    ",03/07/2018,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2018
+                                    ",03/07/2018,Whitehouse,Sheldon,Purchase,"
+C
+","
+                                        
+                                            Citigroup Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/15/2018
+                                    ",03/07/2018,Toomey,Patrick J,Purchase,"
+NTRP
+","
+                                        
+                                            Neurotrope, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2018
+                                    ",03/07/2018,Toomey,Patrick J,Sale (Full),"
+REVB
+","
+                                        
+                                            Revere Bank
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

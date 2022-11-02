@@ -1,0 +1,1130 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/23/2022
+                                    ",10/17/2022,Smith,Tina,Purchase,"
+AORT
+","
+                                        
+                                            Artivion, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        09/20/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $265.00
+                                                
+Expires: 04/21/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        09/20/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Sale (Partial),"
+X
+","
+                                        
+                                            United States Steel Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $24.00
+                                                
+Expires: 04/21/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        09/19/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+X
+","
+                                        
+                                            United States Steel Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        09/19/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        09/19/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+ARKK
+","
+                                        
+                                            Ark Innovation ETF
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/12/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $17.00
+                                                
+Expires: 06/16/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        09/12/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        09/12/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $17.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        09/07/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Sale (Full),"
+ECOM
+","
+                                        
+                                            ChannelAdvisor Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$500,001 - $1,000,000"
+"
+                                        09/07/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+ARKK
+","
+                                        
+                                            Ark Innovation ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        09/06/2022
+                                    ",10/12/2022,Tuberville,Thomas H,Purchase,"
+NU
+","
+                                        
+                                            Nu Holdings Ltd. Class A Ordinary Shares
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/19/2022
+                                    ",10/04/2022,Carper,Thomas R,Sale (Full),"
+SH
+","
+                                        
+                                            ProShares Short S&P500
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/19/2022
+                                    ",10/04/2022,Carper,Thomas R,Sale (Full),"
+SH
+","
+                                        
+                                            ProShares Short S&P500
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/19/2022
+                                    ",10/04/2022,Carper,Thomas R,Sale (Full),"
+SH
+","
+                                        
+                                            ProShares Short S&P500
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/08/2022
+                                    ",10/04/2022,Carper,Thomas R,Sale (Full),"
+SQM
+","
+                                        
+                                            Sociedad Quimica y Minera S.A. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/06/2022
+                                    ",09/26/2022,"McConnell, Jr.",A. Mitchell,Purchase,"
+WFC
+","
+                                        
+                                            Wells Fargo & Company Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+IVV
+","
+                                        
+                                            iShares Core S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+EFAV
+","
+                                        
+                                            iShares MSCI EAFE Min Vol Factor ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+XLY
+","
+                                        
+                                            SPDR Select Sector Fund - Consumer Discretionary
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+VTRS
+","
+                                        
+                                            Viatris Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+ABNFX
+","
+                                        
+                                            The Bond Fd of America Class F-2 Shares
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+RSP
+","
+                                        
+                                            Invesco S&P 500 Equal Weight ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+IDV
+","
+                                        
+                                            iShares International Select Dividend ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+DHS
+","
+                                        
+                                            Wisdomtree U.S. High Dividend Fund
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+PCNNX
+","
+                                        
+                                            Pimco Investment Grade Credit Bond Fund Class I-
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+JHCBX
+","
+                                        
+                                            John Hancock Bond Fund Cl C
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+ORCL
+","
+                                        
+                                            Oracle Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+XLC
+","
+                                        
+                                            The Communication Services Select Sector SPDR Fund
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+TSCO
+","
+                                        
+                                            Tractor Supply Company - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+MUB
+","
+                                        
+                                            iShares National Muni Bond ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        08/01/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+OC
+","
+                                        
+                                            Owens Corning Inc Common Stock New
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/26/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        08/25/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+ARKK
+","
+                                        
+                                            Ark Innovation ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        08/18/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+MRO
+","
+                                        
+                                            Marathon Oil Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $20.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        08/12/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+X
+","
+                                        
+                                            United States Steel Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $20.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        08/11/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        08/05/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/05/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        08/03/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $22.00
+                                                
+Expires: 06/16/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        08/03/2022
+                                    ",09/15/2022,Tuberville,Thomas H,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $125.00
+                                                
+Expires: 06/16/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        08/19/2022
+                                    ",09/02/2022,"Hagerty, IV",William F,Sale (Full),"
+BKEPP
+","
+                                        
+                                            Blueknight Energy Partners L.P. - Series A Preferr
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/18/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+SQM
+","
+                                        
+                                            Sociedad Quimica y Minera S.A. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/18/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+FAST
+","
+                                        
+                                            Fastenal Company - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+MBXIX
+","
+                                        
+                                            Catalyst/Millburn Hedge Strategy Fund Class I
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+LUBYX
+","
+                                        
+                                            Lord Abbett Ultra Short Bond Fund - Class I
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+GSIMX
+","
+                                        
+                                            Goldman Sachs Gqg Partners International Opportu
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+GSMYX
+","
+                                        
+                                            Goldman Sachs Small/Mid-Cap Growth Fund Inst Cl
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+FCPIX
+","
+                                        
+                                            Fidelity Advisor International Capital Appreciat
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+IJS
+","
+                                        
+                                            iShares S&P SmallCap 600 Value ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+JHMM
+","
+                                        
+                                            John Hancock Multifactor Mid Cap ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+WIW
+","
+                                        
+                                            Western Asset Inflation-Linked Opportunities & Inc
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+IVV
+","
+                                        
+                                            iShares Core S&P 500
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+LGI
+","
+                                        
+                                            Lazard Global Total Return and Income Fund Common
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+KRE
+","
+                                        
+                                            SPDR S&P Regional Banking ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+CDL
+","
+                                        
+                                            VictoryShares US Large Cap High Div Volatility Wtd
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+CFA
+","
+                                        
+                                            VictoryShares US 500 Volatility Wtd ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+PRF
+","
+                                        
+                                            Invesco FTSE RAFI US 1000 ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+EELV
+","
+                                        
+                                            S&P Emerging Markets Low Vol Invesco ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+SPGP
+","
+                                        
+                                            Invesco S&P 500 GARP ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+SRVR
+","
+                                        
+                                            Pacer Benchmark Data & Infrastructure Real Estate
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+CEF
+","
+                                        
+                                            Sprott Physical Gold & Silver Trust
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+GLD
+","
+                                        
+                                            SPDR Gold Trust
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+GNR
+","
+                                        
+                                            SPDR S&P Global Natural Resources ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+CIBR
+","
+                                        
+                                            First Trust Nasdaq Cybersecurity ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+LDP
+","
+                                        
+                                            Cohen & Steers Limited Duration Preferred and Inco
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+QTEC
+","
+                                        
+                                            First Trust NASDAQ-100-Technology Sector Index Fun
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+GDXJ
+","
+                                        
+                                            VanEck Vectors Junior Gold Miners ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Partial),"
+MOO
+","
+                                        
+                                            VanEck Agribusiness ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+GSSC
+","
+                                        
+                                            GS Activebeta U.S. Small Cap Equity ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+SMDV
+","
+                                        
+                                            ProShares Russell 2000 Dividend Growers ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+DGRS
+","
+                                        
+                                            WisdomTree U.S. SmallCap Quality Dividend Growth F
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+FINX
+","
+                                        
+                                            Global X FinTech ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+EFAD
+","
+                                        
+                                            ProShares Trust ProShares MSCI EAFE Dividend Growe
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+FDRR
+","
+                                        
+                                            Fidelity Dividend ETF For Rising Rates
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+FQAL
+","
+                                        
+                                            Fidelity Quality Factor ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2022
+                                    ",09/02/2022,Carper,Thomas R,Purchase,"
+JHEM
+","
+                                        
+                                            John Hancock Multifactor Emerging Markets ETF
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/09/2022
+                                    ",09/02/2022,Carper,Thomas R,Sale (Full),"
+FIASX
+","
+                                        
+                                            Fidelity Advisor International Small Cap Class A
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/20/2022
+                                    ",08/22/2022,Peters,Gary C,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+HR
+","
+                                        
+                                            HEALTHCARE REALTY TR INC (Exchanged)
+                                            
+                                            Healthcare Realty Trust Incorporated Common Stock (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/11/2022
+                                    ",08/19/2022,Hickenlooper,John W,Sale (Partial),"
+FWONK
+","
+                                        
+                                            Liberty Media Corporation - Series C Liberty Formu
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        08/09/2022
+                                    ",08/19/2022,Hickenlooper,John W,Purchase,"
+FWONK
+","
+                                        
+                                            Liberty Media Corporation - Series C Liberty Formu
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/18/2022
+                                    ",08/15/2022,Tuberville,Thomas H,Purchase,"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/14/2022
+                                    ",08/15/2022,Tuberville,Thomas H,Purchase,"
+ECOM
+","
+                                        
+                                            ChannelAdvisor Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        07/11/2022
+                                    ",08/10/2022,Capito,Shelley M,Purchase,"
+GWW
+","
+                                        
+                                            W.W. Grainger, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/01/2022
+                                    ",08/10/2022,Capito,Shelley M,Purchase,"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

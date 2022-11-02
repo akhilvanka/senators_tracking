@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/20/2020
+                                    ",08/06/2020,Toomey,Patrick J,Sale (Partial),"
+NKLA
+","
+                                        
+                                            Nikola Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/09/2020
+                                    ",08/06/2020,Toomey,Patrick J,Purchase,"
+NKLA
+","
+                                        
+                                            Nikola Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/07/2020
+                                    ",08/06/2020,Toomey,Patrick J,Sale (Full),"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/07/2020
+                                    ",08/06/2020,Toomey,Patrick J,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

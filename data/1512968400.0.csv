@@ -1,0 +1,111 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Purchase,"
+JPM
+","
+                                        
+                                            JPMorgan Chase & Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Sale (Full),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/01/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Sale (Partial),"
+TMUS
+","
+                                        
+                                            T-Mobile US, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/07/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Sale (Full),"
+TMUS
+","
+                                        
+                                            T-Mobile US, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Sale (Full),"
+MRK
+","
+                                        
+                                            Merck & Co., Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/27/2017
+                                    ",12/11/2017,Whitehouse,Sheldon,Purchase,"
+WMT
+","
+                                        
+                                            Wal-Mart Stores, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/30/2017
+                                    ",12/11/2017,Duckworth,Tammy,Sale (Full),"
+GS
+","
+                                        
+                                            The Goldman Sachs Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/01/2017
+                                    ",12/11/2017,Duckworth,Tammy,Sale (Full),"
+SOUHY
+","
+                                        
+                                            South32 Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

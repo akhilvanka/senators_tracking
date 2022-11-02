@@ -1,0 +1,331 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/30/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $15.00
+                                                
+Expires: 03/18/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        07/29/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+AA
+","
+                                        
+                                            Alcoa Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $25.00
+                                                
+Expires: 10/15/2021
+                                            
+","$1,001 - $15,000"
+"
+                                        07/28/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $180.00
+                                                
+Expires: 06/17/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        07/21/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $20.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/21/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $20.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/21/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $20.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/21/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $23.00
+                                                
+Expires: 01/21/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        07/21/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        07/20/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/20/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $20.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/19/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/19/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+AA
+","
+                                        
+                                            Alcoa Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/14/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited American Depositary
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $245.00
+                                                
+Expires: 01/21/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        07/14/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited American Depositary
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $250.00
+                                                
+Expires: 07/16/2021
+                                            
+","$15,001 - $50,000"
+"
+                                        07/06/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+QQQ
+","
+                                        
+                                            Invesco QQQ Trust, Series 1
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $262.00
+                                                
+Expires: 09/17/2021
+                                            
+","$1,001 - $15,000"
+"
+                                        07/01/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Sale (Full),"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $55.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+CRWD
+","
+                                        
+                                            CrowdStrike Holdings, Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+NWL
+","
+                                        
+                                            Newell Brands Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+PEGA
+","
+                                        
+                                            Pegasystems Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+PEP
+","
+                                        
+                                            PepsiCo, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+XLY
+","
+                                        
+                                            SPDR Select Sector Fund - Consumer Discretionary
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Bristol-Myers Squibb Company Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+MTUM
+","
+                                        
+                                            iShares MSCI USA Momentum Factor ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+SQ
+","
+                                        
+                                            Square, Inc. Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/16/2021
+                                    ",08/13/2021,Tuberville,Thomas H,Purchase,"
+DTD
+","
+                                        
+                                            Wisdomtree U.S. Total Dividend Fund
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

@@ -1,0 +1,155 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/06/2014
+                                    ",11/18/2014,Hoeven,John,Purchase,"
+HON
+","
+                                        
+                                            Honeywell International Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/29/2014
+                                    ",11/18/2014,Hoeven,John,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        11/13/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Purchase,"
+PEP
+","
+                                        
+                                            Pepsico, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/13/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Partial),"
+T
+","
+                                        
+                                            AT&T, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/13/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Purchase,"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/13/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Purchase,"
+M
+","
+                                        
+                                            Macy's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/10/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Full),"
+DHR
+","
+                                        
+                                            Danaher Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/10/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Co. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/20/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Full),"
+COF-PP
+","
+                                        
+                                            Capital One Financial Corp Pfd  (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/10/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Partial),"
+DHR
+","
+                                        
+                                            Danaher Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/10/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/10/2014
+                                    ",11/18/2014,Whitehouse,Sheldon,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Co. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2014
+                                    ",11/18/2014,Vitter,David B,Purchase,"
+EFA
+","
+                                        
+                                            iShares MSCI EAFE (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2014
+                                    ",11/18/2014,Vitter,David B,Sale (Full),"
+EFA
+","
+                                        
+                                            iShares MSCI EAFE (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

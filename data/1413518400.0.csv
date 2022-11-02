@@ -1,0 +1,430 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/08/2014
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+CTRX
+","
+                                        
+                                            Catamaran Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2012
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+TMK
+","
+                                        
+                                            Torchmark Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/29/2012
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+DNKN
+","
+                                        
+                                            Dunkin' Brands Group, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/02/2012
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+HCA
+","
+                                        
+                                            HCA Holdings, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/28/2012
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+COJPF
+","
+                                        
+                                            COCA COLA CENTRAL JP (OTC Markets)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/16/2012
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+CJES
+","
+                                        
+                                            C&J Energy Services, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/13/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+BMO
+","
+                                        
+                                            Bank of Montreal (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/26/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+WPX
+","
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/26/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+WPX
+","
+                                        
+                                            WPX Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/03/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+VLO
+","
+                                        
+                                            Valero Energy Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/15/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+ZTS
+","
+                                        
+                                            Zoetis Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/06/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+LINE
+","
+                                        
+                                            Linn Energy, LLC (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/27/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+TEP
+","
+                                        
+                                            Tallgrass Energy Partners, LP (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/24/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+SWK
+","
+                                        
+                                            Stanley Black & Decker, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/24/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+ITW
+","
+                                        
+                                            Illinois Tool Works Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/24/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+DOW
+","
+                                        
+                                            The Dow Chemical Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/15/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+NEE
+","
+                                        
+                                            NextEra Energy, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/20/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+HLX
+","
+                                        
+                                            Helix Energy Solutions Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/02/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+WPZ
+","
+                                        
+                                            Williams Partners L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/06/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+MPO
+","
+                                        
+                                            Midstates Petroleum Company, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/23/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+RAD
+","
+                                        
+                                            Rite Aid Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+GMT
+","
+                                        
+                                            GATX Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+GMT
+","
+                                        
+                                            GATX Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/26/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+LNCGY
+","
+                                        
+                                            Linc Energy Ltd (OTC Markets)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/23/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+REN
+","
+                                        
+                                            Resolute Energy Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/14/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+SO
+","
+                                        
+                                            Southern Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/03/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+KKR
+","
+                                        
+                                            Kohlberg Kravis Roberts & Co. L.P. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/03/2013
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+HBAN
+","
+                                        
+                                            Huntington Bancshares Incorporated (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/14/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+WLL
+","
+                                        
+                                            Whiting Petroleum Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/05/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+RIG
+","
+                                        
+                                            Transocean Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/05/2013
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+TEX
+","
+                                        
+                                            Terex Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/27/2014
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+MET
+","
+                                        
+                                            MetLife, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/12/2014
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+VTTI
+","
+                                        
+                                            VTTI Energy Partners LP (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/08/2014
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+CTRX
+","
+                                        
+                                            Catamaran Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/05/2014
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+TXT
+","
+                                        
+                                            Textron Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/05/2014
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+DFS
+","
+                                        
+                                            Discover Financial Services (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/04/2014
+                                    ",10/17/2014,Cochran,Thad,Sale (Full),"
+TXT
+","
+                                        
+                                            Textron Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/04/2014
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+GSJK
+","
+                                        
+                                            Compressco Partners, L.P. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/03/2014
+                                    ",10/17/2014,Cochran,Thad,Purchase,"
+USAC
+","
+                                        
+                                            USA Compression Partners, LP (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

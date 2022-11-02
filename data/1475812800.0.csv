@@ -1,0 +1,376 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/30/2015
+                                    ",10/07/2016,Cassidy,William,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            INTC-Intel Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/30/2015
+                                    ",10/07/2016,Cassidy,William,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            CMI-Cummins Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/30/2015
+                                    ",10/07/2016,Cassidy,William,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            AAPL-Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/06/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Partial),"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Exchange,"
+MAR
+","
+                                        
+                                            MAR - Marriott International, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/06/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/06/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Partial),"
+NSRGY
+","
+                                        
+                                            Nestlé S.A.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            CHL CHINA MOBILE LTD
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Full),"
+WEC
+","
+                                        
+                                            WEC-WEC-WEC Energy Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Full),"
+SO
+","
+                                        
+                                            SO-SO-Southern Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+EL
+","
+                                        
+                                            The Estée Lauder Companies Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+MCK
+","
+                                        
+                                            McKesson Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Full),"
+VOD
+","
+                                        
+                                            VOD-VOD-Vodafone Group Plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Partial),"
+AXP
+","
+                                        
+                                            American Express Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/28/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+WM
+","
+                                        
+                                            Waste Management, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/06/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Sale (Partial),"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/06/2016
+                                    ",10/07/2016,Whitehouse,Sheldon,Purchase,"
+REGN
+","
+                                        
+                                            Regeneron Pharmaceuticals, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/07/2016
+                                    ",10/07/2016,Cochran,Thad,Sale (Full),"
+DFS
+","
+                                        
+                                            Discover Financial Services
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/27/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+BX
+","
+                                        
+                                            The Blackstone Group L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/27/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+SXL
+","
+                                        
+                                            Sunoco Logistics Partners L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+MAA
+","
+                                        
+                                            Mid-America Apartment Communities Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/26/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+EPD
+","
+                                        
+                                            Enterprise Products Partners L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+ISD
+","
+                                        
+                                            Prudential Short Duration High Yield Fund, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/22/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+GPOR
+","
+                                        
+                                            Gulfport Energy Corp.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/20/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+CCIZX
+","
+                                        
+                                            Columbia Seligman Comms & Info Z
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/20/2016
+                                    ",10/07/2016,Cochran,Thad,Sale (Full),"
+SYRG
+","
+                                        
+                                            Synergy Resources Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/16/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+EGO
+","
+                                        
+                                            Eldorado Gold Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/09/2016
+                                    ",10/07/2016,Cochran,Thad,Sale (Partial),"
+ABT
+","
+                                        
+                                            Abbott Laboratories
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/09/2016
+                                    ",10/07/2016,Cochran,Thad,Sale (Full),"
+PDCO
+","
+                                        
+                                            Patterson Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/30/2016
+                                    ",10/07/2016,Cochran,Thad,Purchase,"
+SYRG
+","
+                                        
+                                            Synergy Resources Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

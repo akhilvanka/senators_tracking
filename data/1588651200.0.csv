@@ -1,0 +1,438 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AMAT
+","
+                                        
+                                            Applied Materials, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+DNKN
+","
+                                        
+                                            Dunkin' Brands Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+GOOG
+","
+                                        
+                                            Alphabet Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+KLAC
+","
+                                        
+                                            KLA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+VMC
+","
+                                        
+                                            Vulcan Materials Company
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        05/01/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/24/2020
+                                    ",05/05/2020,Wyden,Ron L,Sale (Full),"
+TEL
+","
+                                        
+                                            TE Connectivity Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/24/2020
+                                    ",05/05/2020,Wyden,Ron L,Sale (Full),"
+JCI
+","
+                                        
+                                            Johnson Controls International plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/24/2020
+                                    ",05/05/2020,Wyden,Ron L,Sale (Full),"
+C
+","
+                                        
+                                            Citigroup Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/24/2020
+                                    ",05/05/2020,Wyden,Ron L,Sale (Full),"
+CRWD
+","
+                                        
+                                            CrowdStrike Holdings, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/23/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/21/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+CRWD
+","
+                                        
+                                            CrowdStrike Holdings, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/21/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/17/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/08/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+UPS
+","
+                                        
+                                            United Parcel Service, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/08/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+GOOG
+","
+                                        
+                                            Alphabet Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+QSR
+","
+                                        
+                                            Restaurant Brands International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+GRUB
+","
+                                        
+                                            Grubhub Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+GOOG
+","
+                                        
+                                            Alphabet Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+IRBT
+","
+                                        
+                                            iRobot Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+DNKN
+","
+                                        
+                                            Dunkin' Brands Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+RDS-B
+","
+                                        
+                                            Royal Dutch Shell plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AMAT
+","
+                                        
+                                            Applied Materials, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+KLAC
+","
+                                        
+                                            KLA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AVGO
+","
+                                        
+                                            Broadcom Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+CAT
+","
+                                        
+                                            Caterpillar Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/06/2020
+                                    ",05/05/2020,Wyden,Ron L,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        05/17/2019
+                                    ",05/05/2020,Wicker,Roger F,Purchase,"
+BIF
+","
+                                        
+                                            Boulder Growth & Income Fund, Inc.
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/17/2019
+                                    ",05/05/2020,Wicker,Roger F,Sale (Full),"
+GDV
+","
+                                        
+                                            The Gabelli Dividend & Income Trust
+                                        
+                                        
+                                        
+                                            
+
+                                            
+                                        
+                                    ","$1,001 - $15,000"

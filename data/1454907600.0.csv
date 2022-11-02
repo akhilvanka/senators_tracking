@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/28/2016
+                                    ",02/08/2016,Hoeven,John,Purchase,"
+MRK
+","
+                                        
+                                            Merck &amp; Co. Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        01/28/2016
+                                    ",02/08/2016,Hoeven,John,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        02/03/2016
+                                    ",02/08/2016,Hoeven,John,Purchase,"
+MCD
+","
+                                        
+                                            McDonald&apos;s Corp.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        01/25/2016
+                                    ",02/08/2016,Capito,Shelley M,Sale (Full),"
+COP
+","
+                                        
+                                            ConocoPhillips
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/08/2016,Capito,Shelley M,Purchase,"
+NKE
+","
+                                        
+                                            NIKE, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/08/2016,Capito,Shelley M,Purchase,"
+CB
+","
+                                        
+                                            Chubb Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

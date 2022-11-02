@@ -1,0 +1,183 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/03/2015
+                                    ",03/09/2015,Hoeven,John,Purchase,"
+CAT
+","
+                                        
+                                            Caterpillar Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        02/25/2015
+                                    ",03/09/2015,Hoeven,John,Purchase,"
+ABBV
+","
+                                        
+                                            AbbVie Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        02/01/2015
+                                    ",03/09/2015,Cochran,Thad,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Renasant Trust Media
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2015
+                                    ",03/09/2015,Cochran,Thad,Sale (Full),"
+DD
+","
+                                        
+                                            E. I. du Pont de Nemours and Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Renasant Trust Media
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+DOW
+","
+                                        
+                                            The Dow Chemical Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/25/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/04/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+AXP
+","
+                                        
+                                            American Express Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/20/2015
+                                    ",03/09/2015,Cochran,Thad,Sale (Full),"
+QAI
+","
+                                        
+                                            IQ Hedge Multi-Strategy Tracker ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/20/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+SDY
+","
+                                        
+                                            SPDR S&P Dividend ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/20/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+AGG
+","
+                                        
+                                            iShares Core US Aggregate Bond (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/19/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+FLS
+","
+                                        
+                                            Flowserve Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/13/2015
+                                    ",03/09/2015,Cochran,Thad,Sale (Full),"
+WCC
+","
+                                        
+                                            WESCO International Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/09/2015
+                                    ",03/09/2015,Cochran,Thad,Sale (Full),"
+SO
+","
+                                        
+                                            Southern Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+CE
+","
+                                        
+                                            Celanese Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/03/2015
+                                    ",03/09/2015,Cochran,Thad,Purchase,"
+LAZ
+","
+                                        
+                                            Lazard Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

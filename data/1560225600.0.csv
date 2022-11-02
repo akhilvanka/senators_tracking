@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/17/2019
+                                    ",06/11/2019,Collins,Susan M,Sale (Full),"
+RHT
+","
+                                        
+                                            Red Hat, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        05/21/2019
+                                    ",06/11/2019,Collins,Susan M,Purchase,"
+WEX
+","
+                                        
+                                            WEX Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/17/2019
+                                    ",06/11/2019,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/16/2019
+                                    ",06/11/2019,Whitehouse,Sheldon,Purchase,"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

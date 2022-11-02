@@ -1,0 +1,224 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/26/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/24/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/24/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/26/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/26/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+CVX
+","
+                                        
+                                            Chevron Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/26/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/24/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+WMT
+","
+                                        
+                                            Walmart Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/24/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/24/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/20/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/09/2020
+                                    ",03/28/2020,Roberts,Pat,Sale (Full),"
+WMT
+","
+                                        
+                                            Walmart Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/06/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        03/02/2020
+                                    ",03/28/2020,Roberts,Pat,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/02/2020
+                                    ",03/28/2020,Roberts,Pat,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/20/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/06/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        03/06/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/06/2020
+                                    ",03/28/2020,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/02/2020
+                                    ",03/28/2020,Roberts,Pat,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/02/2020
+                                    ",03/28/2020,Roberts,Pat,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"

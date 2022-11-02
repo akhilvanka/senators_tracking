@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/30/2014
+                                    ",07/11/2014,"Rockefeller, IV",John D,Purchase,"
+PEP
+","
+                                        
+                                            Pepsico, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/05/2014
+                                    ",07/11/2014,Cochran,Thad,Purchase,"
+IRDM
+","
+                                        
+                                            Iridium Communications Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/05/2014
+                                    ",07/11/2014,Cochran,Thad,Sale (Full),"
+HDS
+","
+                                        
+                                            HD Supply Holdings, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/02/2014
+                                    ",07/11/2014,Cochran,Thad,Purchase,"
+HDS
+","
+                                        
+                                            HD Supply Holdings, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

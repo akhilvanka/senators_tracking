@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/28/2015
+                                    ",05/07/2015,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/24/2015
+                                    ",05/07/2015,Roberts,Pat,Purchase,"
+CVX
+","
+                                        
+                                            Chevron Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/22/2015
+                                    ",05/07/2015,Roberts,Pat,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/14/2015
+                                    ",05/07/2015,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/24/2015
+                                    ",05/07/2015,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/24/2015
+                                    ",05/07/2015,Roberts,Pat,Purchase,"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

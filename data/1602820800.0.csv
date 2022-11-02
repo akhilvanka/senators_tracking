@@ -1,0 +1,23 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/23/2020
+                                    ",10/16/2020,Loeffler,Kelly,Sale (Partial),"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,000,001 - $5,000,000"
+"
+                                        09/23/2020
+                                    ",10/16/2020,Loeffler,Kelly,Purchase,"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"

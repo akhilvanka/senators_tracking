@@ -1,0 +1,377 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/01/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        11/01/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$500,001 - $1,000,000"
+"
+                                        11/01/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        10/27/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+FB
+","
+                                        
+                                            Facebook, Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        10/29/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        10/29/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        11/01/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Full),"
+GOOGL
+","
+                                        
+                                            Alphabet Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        11/08/2021
+                                    ",12/10/2021,Hickenlooper,John W,Sale (Partial),"
+TTD
+","
+                                        
+                                            The Trade Desk, Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/22/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $210.00
+                                                
+Expires: 03/18/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/22/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $29.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/22/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+ECOM
+","
+                                        
+                                            ChannelAdvisor Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/22/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $102.50
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/22/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        11/17/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Partial),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $185.00
+                                                
+Expires: 01/20/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        11/17/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $185.00
+                                                
+Expires: 01/20/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        11/17/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $185.00
+                                                
+Expires: 01/20/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        11/12/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+ADBE
+","
+                                        
+                                            Adobe Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $400.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/08/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $22.00
+                                                
+Expires: 01/20/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        11/08/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $27.00
+                                                
+Expires: 01/20/2023
+                                            
+","$1,001 - $15,000"
+"
+                                        11/08/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $27.00
+                                                
+Expires: 01/20/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        11/08/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        11/05/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $17.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/05/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $17.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/04/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $40.00
+                                                
+Expires: 03/18/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/02/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+SCCO
+","
+                                        
+                                            Southern Copper Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $55.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/02/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+SCCO
+","
+                                        
+                                            Southern Copper Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $55.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/02/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Sale (Full),"
+SCCO
+","
+                                        
+                                            Southern Copper Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $65.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        11/02/2021
+                                    ",12/10/2021,Tuberville,Thomas H,Purchase,"
+SCCO
+","
+                                        
+                                            Southern Copper Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"

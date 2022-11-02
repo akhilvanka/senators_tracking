@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/26/2016
+                                    ",02/12/2016,Peters,Gary C,Purchase,"
+WPC
+","
+                                        
+                                            W. P. Carey Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/26/2016
+                                    ",02/12/2016,Peters,Gary C,Purchase,"
+NUE
+","
+                                        
+                                            Nucor Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",02/12/2016,Flake,Jeffry L,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/11/2016
+                                    ",02/12/2016,Flake,Jeffry L,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

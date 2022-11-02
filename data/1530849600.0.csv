@@ -1,0 +1,540 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/05/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/05/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+GM
+","
+                                        
+                                            General Motors Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/05/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+GM
+","
+                                        
+                                            General Motors Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/02/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+MYL
+","
+                                        
+                                            Mylan N.V.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/26/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+SU
+","
+                                        
+                                            Suncor Energy Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/15/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Exchange,"
+TWX
+
+T
+","
+                                        
+                                            Time Warner Inc. (Exchanged)
+                                            
+                                            AT&T Inc. (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/14/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/02/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+MYL
+","
+                                        
+                                            Mylan N.V.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/13/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/13/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/26/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Full),"
+CRMT
+","
+                                        
+                                            America's Car-Mart, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/28/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+BOIVF
+","
+                                        
+                                            Bollore
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/28/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/27/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+BOIVF
+","
+                                        
+                                            Bollore
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/27/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/27/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/26/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+BOIVF
+","
+                                        
+                                            Bollore
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/25/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/25/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/25/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/22/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/22/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOX
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+KMI
+","
+                                        
+                                            Kinder Morgan, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+OKE
+","
+                                        
+                                            ONEOK, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+BRK-B
+","
+                                        
+                                            Berkshire Hathaway Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+UHAL
+","
+                                        
+                                            AMERCO
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+LNG
+","
+                                        
+                                            Cheniere Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+LNG
+","
+                                        
+                                            Cheniere Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/20/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/20/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/19/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Full),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/19/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/14/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+CRMT
+","
+                                        
+                                            America's Car-Mart, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/14/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/13/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/03/2017
+                                    ",07/06/2018,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+OKE
+","
+                                        
+                                            ONEOK PARTNERS (Exchanged)
+                                            
+                                            ONEOK, Inc. (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/11/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/11/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+CRMT
+","
+                                        
+                                            America's Car-Mart, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/08/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/06/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Full),"
+USG
+","
+                                        
+                                            USG Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/04/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+USG
+","
+                                        
+                                            USG Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/01/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Sale (Partial),"
+CRMT
+","
+                                        
+                                            America's Car-Mart, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/04/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/04/2018
+                                    ",07/06/2018,"Perdue , Jr",David A,Purchase,"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

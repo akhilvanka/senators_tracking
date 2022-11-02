@@ -1,0 +1,38 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/28/2021
+                                    ",07/09/2021,Hickenlooper,John W,Sale (Full),"
+OGN
+","
+                                        
+                                            Organon & Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/02/2021
+                                    ",07/09/2021,Hickenlooper,John W,Exchange,"
+MRK
+
+OGN
+","
+                                        
+                                            Merck & Co., Inc. (Exchanged)
+                                            
+                                            Organon & Co. (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/03/2021
+                                    ",07/09/2021,Hickenlooper,John W,Purchase,"
+NOK
+","
+                                        
+                                            Nokia Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

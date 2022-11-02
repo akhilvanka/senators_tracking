@@ -1,0 +1,397 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/27/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Exchange,"
+MDT
+","
+                                        
+                                            Medtronic plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+ETN
+","
+                                        
+                                            Eaton Corporation plc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+DD
+","
+                                        
+                                            E. I. du Pont de Nemours and Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+ETN
+","
+                                        
+                                            Eaton Corporation plc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/23/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Partial),"
+DHR
+","
+                                        
+                                            Danaher Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/23/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+ACE
+","
+                                        
+                                            ACE Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/23/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+AIG
+","
+                                        
+                                            American International Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+KLXI
+","
+                                        
+                                            KLX Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+M
+","
+                                        
+                                            Macy's, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/22/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+LRCX
+","
+                                        
+                                            Lam Research Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Partial),"
+M
+","
+                                        
+                                            Macy's, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+LMT
+","
+                                        
+                                            Lockheed Martin Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/06/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+GME
+","
+                                        
+                                            GameStop Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+LLTC
+","
+                                        
+                                            Linear Technology Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/22/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+LRCX
+","
+                                        
+                                            Lam Research Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+WMT
+","
+                                        
+                                            Wal-Mart Stores Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+VZ
+","
+                                        
+                                            Verizon Communications Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+UA
+","
+                                        
+                                            Under Armour, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2016
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+MRK
+","
+                                        
+                                            Merck &amp; Co. Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/20/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Sale (Full),"
+PCAR
+","
+                                        
+                                            PACCAR Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/04/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+GE
+","
+                                        
+                                            General Electric Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/04/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+BIIB
+","
+                                        
+                                            Biogen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+KO
+","
+                                        
+                                            The Coca-Cola Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+BIIB
+","
+                                        
+                                            Biogen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+BIIB
+","
+                                        
+                                            Biogen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/04/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+BIIB
+","
+                                        
+                                            Biogen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/04/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+WFC
+","
+                                        
+                                            Wells Fargo & Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/04/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+VZ
+","
+                                        
+                                            Verizon Communications Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/15/2015
+                                    ",08/11/2016,Whitehouse,Sheldon,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

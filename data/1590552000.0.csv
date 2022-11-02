@@ -1,0 +1,160 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/17/2019
+                                    ",05/27/2020,Carper,Thomas R,Sale (Partial),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/17/2019
+                                    ",05/27/2020,Carper,Thomas R,Purchase,"
+SWKS
+","
+                                        
+                                            Skyworks Solutions, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/03/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+RTN
+
+UTX
+","
+                                        
+                                            Raytheon Company (Exchanged)
+                                            
+                                            Raytheon Technologies Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/03/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+RTX
+","
+                                        
+                                            UTX - United Technologies Corporation (Exchanged)
+                                            
+                                            Raytheon Technologies Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+UTX
+
+CARR
+","
+                                        
+                                            Raytheon Technologies Corporation (Exchanged)
+                                            
+                                            Carrier Global Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+UTX
+
+OTIS
+","
+                                        
+                                            Raytheon Technologies Corporation (Exchanged)
+                                            
+                                            Otis Worldwide Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+UTX
+
+CARR
+","
+                                        
+                                            Raytheon Technologies Corporation (Exchanged)
+                                            
+                                            Carrier Global Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Exchange,"
+UTX
+
+OTIS
+","
+                                        
+                                            Raytheon Technologies Corporation (Exchanged)
+                                            
+                                            Otis Worldwide Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Sale (Full),"
+CARR
+","
+                                        
+                                            Carrier Global Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Sale (Full),"
+OTIS
+","
+                                        
+                                            Otis Worldwide Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Sale (Full),"
+CARR
+","
+                                        
+                                            Carrier Global Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/07/2020
+                                    ",05/27/2020,Whitehouse,Sheldon,Sale (Full),"
+OTIS
+","
+                                        
+                                            Otis Worldwide Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,23 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/14/2021
+                                    ",07/07/2021,Toomey,Patrick J,Purchase,"
+ETHE
+","
+                                        
+                                            Grayscale Ethereum Trust (ETH)
+                                        
+                                        
+                                            Exchange/Platform: OTC
+","$1,001 - $15,000"
+"
+                                        06/15/2021
+                                    ",07/07/2021,Toomey,Patrick J,Purchase,"
+GBTC
+","
+                                        
+                                            Grayscale Bitcoin Trust (BTC)
+                                        
+                                        
+                                            Exchange/Platform: OTC
+","$1,001 - $15,000"

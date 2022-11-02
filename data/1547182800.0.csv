@@ -1,0 +1,153 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/04/2019
+                                    ",01/11/2019,Hoeven,John,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Partial),"
+WTW
+","
+                                        
+                                            Weight Watchers International, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Full),"
+DWDP
+","
+                                        
+                                            DowDuPont Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Full),"
+TAP
+","
+                                        
+                                            Molson Coors Brewing Company
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Partial),"
+IVZ
+","
+                                        
+                                            Invesco Ltd.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Full),"
+BUD
+","
+                                        
+                                            Anheuser-Busch InBev SA/NV
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Partial),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Sale (Full),"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/27/2018
+                                    ",01/11/2019,Hoeven,John,Purchase,"
+BX
+","
+                                        
+                                            The Blackstone Group L.P.
+                                        
+                                        
+                                        
+                                            
+                                                
+Company: The Blackstone Group L.P.
+                                                    
+                                                
+Description: Publicly Traded Partnership
+","$100,001 - $250,000"
+"
+                                        12/12/2018
+                                    ",01/11/2019,Capito,Shelley M,Sale (Full),"
+GIS
+","
+                                        
+                                            General Mills, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2018
+                                    ",01/11/2019,Capito,Shelley M,Purchase,"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2018
+                                    ",01/11/2019,Capito,Shelley M,Purchase,"
+PEP
+","
+                                        
+                                            PepsiCo, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/31/2018
+                                    ",01/11/2019,Capito,Shelley M,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

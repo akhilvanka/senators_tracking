@@ -1,0 +1,123 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/30/2021
+                                    ",07/16/2021,Tuberville,Thomas H,Purchase,"
+ADP
+","
+                                        
+                                            Automatic Data Processing, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $175.00
+                                                
+Expires: 08/20/2021
+                                            
+","$1,001 - $15,000"
+"
+                                        06/25/2021
+                                    ",07/16/2021,Tuberville,Thomas H,Purchase,"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $25.00
+                                                
+Expires: 08/20/2021
+                                            
+","$1,001 - $15,000"
+"
+                                        06/23/2021
+                                    ",07/16/2021,Tuberville,Thomas H,Sale (Full),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $210.00
+                                                
+Expires: 03/18/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        06/23/2021
+                                    ",07/16/2021,Tuberville,Thomas H,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $102.50
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        06/01/2021
+                                    ",07/16/2021,Tuberville,Thomas H,Sale (Full),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $130.00
+                                                
+Expires: 06/17/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        06/24/2021
+                                    ",07/16/2021,Capito,Shelley M,Purchase,"
+USB
+","
+                                        
+                                            U.S. Bancorp
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/23/2021
+                                    ",07/16/2021,Capito,Shelley M,Purchase,"
+JPM
+","
+                                        
+                                            JPMorgan Chase & Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/23/2021
+                                    ",07/16/2021,Capito,Shelley M,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/21/2021
+                                    ",07/16/2021,Capito,Shelley M,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

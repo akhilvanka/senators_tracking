@@ -1,0 +1,741 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/04/2017
+                                    ",08/07/2017,Inhofe,James M,Sale (Full),"
+FLR
+","
+                                        
+                                            Fluor Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/26/2017
+                                    ",08/07/2017,Inhofe,James M,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/20/2017
+                                    ",08/07/2017,Inhofe,James M,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/07/2017
+                                    ",08/07/2017,Inhofe,James M,Sale (Partial),"
+C
+","
+                                        
+                                            Citigroup Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/26/2017
+                                    ",08/07/2017,Hoeven,John,Purchase,"
+DPS
+","
+                                        
+                                            Dr Pepper Snapple Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        02/29/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/26/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+GM
+","
+                                        
+                                            General Motors Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/25/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+WFC
+","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/25/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+MA
+","
+                                        
+                                            MasterCard Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/25/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Full),"
+AXP
+","
+                                        
+                                            American Express Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/25/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/23/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/23/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+WFM
+","
+                                        
+                                            Whole Foods Market, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/23/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/22/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+ETP
+","
+                                        
+                                            Energy Transfer Partners, L.P.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/22/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+ETP
+","
+                                        
+                                            Energy Transfer Partners, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/22/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/19/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/19/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/19/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/18/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+EPD
+","
+                                        
+                                            Enterprise Products Partners L.P.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+SYY
+","
+                                        
+                                            Sysco Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/17/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/16/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+CHRW
+","
+                                        
+                                            CH Robinson Worldwide Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/16/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/16/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/16/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/12/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+KN
+","
+                                        
+                                            Knowles Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+WFM
+","
+                                        
+                                            Whole Foods Market, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            PFE-Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/09/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/09/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/09/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Full),"
+WMB
+","
+                                        
+                                            Williams Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+WMB
+","
+                                        
+                                            Williams Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+ETE
+","
+                                        
+                                            Energy Transfer Equity, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/05/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+ORCL
+","
+                                        
+                                            Oracle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/05/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/05/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/05/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/04/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PKI
+","
+                                        
+                                            PerkinElmer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/04/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+ADT
+","
+                                        
+                                            The ADT Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+EPD
+","
+                                        
+                                            Enterprise Products Partners L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PKI
+","
+                                        
+                                            PerkinElmer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2016
+                                    ",08/07/2017,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

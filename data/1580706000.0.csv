@@ -1,0 +1,400 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/13/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/30/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/30/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+AXTA
+","
+                                        
+                                            Axalta Coating Systems Ltd.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/28/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+GPK
+","
+                                        
+                                            Graphic Packaging Holding Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/24/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/24/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/24/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/24/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/23/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+CDLX
+","
+                                        
+                                            Cardlytics, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,000,001 - $5,000,000"
+"
+                                        01/22/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+GPK
+","
+                                        
+                                            Graphic Packaging Holding Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+GPK
+","
+                                        
+                                            Graphic Packaging Holding Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Full),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Sale (Partial),"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2020
+                                    ",02/03/2020,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2020
+                                    ",02/03/2020,Roberts,Pat,Purchase,"
+MA
+","
+                                        
+                                            Mastercard Incorporated
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Full),"
+KSS
+","
+                                        
+                                            Kohl's Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/10/2020
+                                    ",02/03/2020,Roberts,Pat,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/10/2020
+                                    ",02/03/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/06/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Full),"
+MA
+","
+                                        
+                                            Mastercard Incorporated
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        01/06/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/06/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Full),"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Partial),"
+ETY
+","
+                                        
+                                            Eaton Vance Tax-Managed Diversified Equity Income
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2020
+                                    ",02/03/2020,Roberts,Pat,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/06/2020
+                                    ",02/03/2020,Roberts,Pat,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

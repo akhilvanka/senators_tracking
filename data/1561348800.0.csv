@@ -1,0 +1,78 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/23/2018
+                                    ",06/24/2019,Coons,Christopher A,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2018
+                                    ",06/24/2019,Coons,Christopher A,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/18/2018
+                                    ",06/24/2019,Coons,Christopher A,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2018
+                                    ",06/24/2019,Coons,Christopher A,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/05/2018
+                                    ",06/24/2019,Coons,Christopher A,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/24/2018
+                                    ",06/24/2019,Coons,Christopher A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/28/2019
+                                    ",06/24/2019,Coons,Christopher A,Sale (Full),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

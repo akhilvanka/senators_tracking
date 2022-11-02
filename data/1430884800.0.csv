@@ -1,0 +1,100 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/23/2015
+                                    ",05/06/2015,Reed,John F,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/23/2015
+                                    ",05/06/2015,Reed,John F,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/23/2015
+                                    ",05/06/2015,Reed,John F,Purchase,"
+ESRX
+","
+                                        
+                                            Express Scripts Holding Company (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/23/2015
+                                    ",05/06/2015,Reed,John F,Sale (Partial),"
+SLB
+","
+                                        
+                                            Schlumberger Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/23/2015
+                                    ",05/06/2015,Reed,John F,Sale (Partial),"
+EMC
+","
+                                        
+                                            EMC Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/14/2015
+                                    ",05/06/2015,Peters,Gary C,Sale (Full),"
+KRFT
+","
+                                        
+                                            Kraft Foods Group, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/14/2015
+                                    ",05/06/2015,Peters,Gary C,Purchase,"
+DTE
+","
+                                        
+                                            DTE Energy Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/14/2015
+                                    ",05/06/2015,Peters,Gary C,Purchase,"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/14/2015
+                                    ",05/06/2015,Peters,Gary C,Purchase,"
+EMR
+","
+                                        
+                                            Emerson Electric Co. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

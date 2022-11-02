@@ -1,0 +1,43 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/31/2019
+                                    ",08/11/2020,Toomey,Patrick J,Purchase,"
+TNTOF
+","
+                                        
+                                            The Toronto-Dominion Bank
+                                        
+                                        
+                                        
+                                            Rate/Coupon: 3.25 Matures: 06/11/2021
+","$15,001 - $50,000"
+"
+                                        11/26/2019
+                                    ",08/11/2020,Blunt,Roy,Sale (Partial),"
+KHC
+","
+                                        
+                                            The Kraft Heinz Company
+                                        
+                                        
+                                        
+                                            Option Type: Neither Strike price: $24.96
+                                                
+Expires: 02/23/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        12/02/2019
+                                    ",08/11/2020,Blunt,Roy,Sale (Partial),"
+MDLZ
+","
+                                        
+                                            Mondelez International, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Neither Strike price: $24.87
+                                                
+Expires: 02/23/2022
+                                            
+","$50,001 - $100,000"

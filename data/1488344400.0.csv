@@ -1,0 +1,403 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/28/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            ENB-Enbridge Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/27/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/24/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/23/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+WOOF
+","
+                                        
+                                            VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/22/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/17/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/16/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/14/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/14/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/13/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+BAX
+","
+                                        
+                                            Baxter International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/13/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Full),"
+VIAB
+","
+                                        
+                                            Viacom, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+WOOF
+","
+                                        
+                                            VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/10/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/09/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+WOOF
+","
+                                        
+                                            VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/09/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+ORCL
+","
+                                        
+                                            Oracle Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+BAX
+","
+                                        
+                                            Baxter International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+PKI
+","
+                                        
+                                            PerkinElmer, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/07/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            WOOF - VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/06/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+WOOF
+","
+                                        
+                                            VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/07/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/07/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/07/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/06/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/06/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Purchase,"
+VSM
+","
+                                        
+                                            Versum Materials, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+WOOF
+","
+                                        
+                                            VCA Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/31/2017
+                                    ",03/01/2017,"Perdue , Jr",David A,Sale (Partial),"
+FOXA
+","
+                                        
+                                            Twenty-First Century Fox, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,29 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/10/2018
+                                    ",10/04/2018,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Hewlett Packard Enterprises
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/10/2018
+                                    ",10/04/2018,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Analog Devices
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,275 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/28/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+CXO
+","
+                                        
+                                            Concho Resources Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+PM
+","
+                                        
+                                            Philip Morris International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+NTNX
+","
+                                        
+                                            Nutanix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+ADBE
+","
+                                        
+                                            Adobe Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+MKC
+","
+                                        
+                                            McCormick & Company, Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+INFO
+","
+                                        
+                                            IHS Markit Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/08/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+ARRS
+","
+                                        
+                                            ARRIS International plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/02/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+BWA
+","
+                                        
+                                            BorgWarner Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2018
+                                    ",01/30/2019,Kyl,Jon,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+LIN
+","
+                                        
+                                            PX - PRAXAIR, INC (Exchanged)
+                                            
+                                            Linde plc (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/24/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+AVGO
+","
+                                        
+                                            Broadcom Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/12/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+TWTR
+","
+                                        
+                                            Twitter, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/24/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+AVGO
+","
+                                        
+                                            Broadcom Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+PM
+","
+                                        
+                                            Philip Morris International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+CXO
+","
+                                        
+                                            Concho Resources Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/08/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+ARRS
+","
+                                        
+                                            ARRIS International plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/02/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+BWA
+","
+                                        
+                                            BorgWarner Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+NTNX
+","
+                                        
+                                            Nutanix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+INFO
+","
+                                        
+                                            IHS Markit Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/12/2018
+                                    ",01/30/2019,Kyl,Jon,Purchase,"
+TWTR
+","
+                                        
+                                            Twitter, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+ADBE
+","
+                                        
+                                            Adobe Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Partial),"
+MKC
+","
+                                        
+                                            McCormick & Company, Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2018
+                                    ",01/30/2019,Kyl,Jon,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            PX - PRAXAIR, INC
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,243 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+TJX
+","
+                                        
+                                            The TJX Companies, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+ORCL
+","
+                                        
+                                            Oracle Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+T
+","
+                                        
+                                            AT&T, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Partial),"
+KORS
+","
+                                        
+                                            Michael Kors Holdings Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+PCAR
+","
+                                        
+                                            PACCAR Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Partial),"
+IBM
+","
+                                        
+                                            International Business Machines Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+CMRE
+","
+                                        
+                                            Costamare Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+PCAR
+","
+                                        
+                                            PACCAR Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+AMGN
+","
+                                        
+                                            Amgen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Full),"
+HYH
+","
+                                        
+                                            Halyard Health, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys Ltd. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+ABBV
+","
+                                        
+                                            AbbVie Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Full),"
+KEYS
+","
+                                        
+                                            Keysight Technologies, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+T
+","
+                                        
+                                            AT&T, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Partial),"
+KORS
+","
+                                        
+                                            Michael Kors Holdings Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Sale (Full),"
+BEAV
+","
+                                        
+                                            B/E Aerospace Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/25/2014
+                                    ",01/05/2015,Whitehouse,Sheldon,Purchase,"
+M
+","
+                                        
+                                            Macy's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2014
+                                    ",01/05/2015,Roberts,Pat,Sale (Full),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2014
+                                    ",01/05/2015,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2014
+                                    ",01/05/2015,Roberts,Pat,Sale (Full),"
+BAC
+","
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/11/2014
+                                    ",01/05/2015,Roberts,Pat,Purchase,"
+MIK
+","
+                                        
+                                            The Michaels Companies, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/02/2017
+                                    ",04/11/2017,Collins,Susan M,Sale (Full),"
+RHHBY
+","
+                                        
+                                            Roche Holding AG
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/02/2017
+                                    ",04/11/2017,Collins,Susan M,Sale (Full),"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/02/2017
+                                    ",04/11/2017,Collins,Susan M,Purchase,"
+DHR
+","
+                                        
+                                            Danaher Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/02/2017
+                                    ",04/11/2017,Collins,Susan M,Purchase,"
+BRKB
+","
+                                        
+                                            Berkshire Hathaway Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

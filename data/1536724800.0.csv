@@ -1,0 +1,23 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/28/2018
+                                    ",09/12/2018,Heller,Dean,Purchase,"
+ADI
+","
+                                        
+                                            Analog Devices, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/31/2018
+                                    ",09/12/2018,Heller,Dean,Sale (Partial),"
+UTX
+","
+                                        
+                                            United Technologies Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

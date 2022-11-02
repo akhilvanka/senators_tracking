@@ -1,0 +1,243 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/18/2018
+                                    ",01/10/2019,Udall,Thomas,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+GS
+","
+                                        
+                                            The Goldman Sachs Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+ETN
+","
+                                        
+                                            Eaton Corporation plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+BUD
+","
+                                        
+                                            Anheuser-Busch InBev SA/NV
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+REZI
+","
+                                        
+                                            Resideo Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Partial),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+BMY
+","
+                                        
+                                            Bristol-Myers Squibb Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/03/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+C
+","
+                                        
+                                            Citigroup Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+BUD
+","
+                                        
+                                            Anheuser-Busch InBev SA/NV
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/03/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+REZI
+","
+                                        
+                                            Resideo Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/04/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Partial),"
+UNP
+","
+                                        
+                                            Union Pacific Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/19/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+COF
+","
+                                        
+                                            Capital One Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+ILMN
+","
+                                        
+                                            Illumina, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2018
+                                    ",01/10/2019,Whitehouse,Sheldon,Purchase,"
+SQ
+","
+                                        
+                                            Square, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

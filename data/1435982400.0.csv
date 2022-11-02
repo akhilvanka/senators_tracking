@@ -1,0 +1,57 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/24/2015
+                                    ",07/04/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            nflx
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/11/2015
+                                    ",07/04/2015,Roberts,Pat,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            znga
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/09/2015
+                                    ",07/04/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            aapl
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/09/2015
+                                    ",07/04/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            aapl
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

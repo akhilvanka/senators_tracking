@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/28/2014
+                                    ",05/13/2014,"King, Jr.",Angus S,Sale (Partial),"
+SRE
+","
+                                        
+                                            Sempra Energy (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/28/2014
+                                    ",05/13/2014,"King, Jr.",Angus S,Sale (Full),"
+XRAY
+","
+                                        
+                                            DENTSPLY International Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/28/2014
+                                    ",05/13/2014,"King, Jr.",Angus S,Purchase,"
+UNH
+","
+                                        
+                                            UnitedHealth Group Incorporated (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

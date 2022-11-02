@@ -1,0 +1,84 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/07/2017
+                                    ",12/12/2017,Cassidy,William,Sale (Full),"
+SLB
+","
+                                        
+                                            Schlumberger Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/07/2017
+                                    ",12/12/2017,Cassidy,William,Sale (Full),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/07/2017
+                                    ",12/12/2017,Cassidy,William,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2017
+                                    ",12/12/2017,Cassidy,William,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",12/12/2017,Toomey,Patrick J,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            DBP
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/05/2016
+                                    ",12/12/2017,Toomey,Patrick J,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GLD
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2016
+                                    ",12/12/2017,Toomey,Patrick J,Sale (Full),"
+CVX
+","
+                                        
+                                            Chevron Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

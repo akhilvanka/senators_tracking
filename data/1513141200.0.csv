@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/13/2017
+                                    ",12/13/2017,Inhofe,James M,Sale (Partial),"
+PCLN
+","
+                                        
+                                            The Priceline Group Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        11/13/2017
+                                    ",12/13/2017,Inhofe,James M,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        11/10/2017
+                                    ",12/13/2017,Inhofe,James M,Sale (Full),"
+XON
+","
+                                        
+                                            Intrexon Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

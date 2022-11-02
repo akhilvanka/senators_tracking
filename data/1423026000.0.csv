@@ -1,0 +1,89 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/16/2015
+                                    ",02/04/2015,Roberts,Pat,Sale (Partial),"
+ZNGA
+","
+                                        
+                                            Zynga, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2015
+                                    ",02/04/2015,Roberts,Pat,Purchase,"
+BIDU
+","
+                                        
+                                            Baidu, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/28/2015
+                                    ",02/04/2015,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2015
+                                    ",02/04/2015,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/16/2015
+                                    ",02/04/2015,Roberts,Pat,Sale (Partial),"
+TCS
+","
+                                        
+                                            The Container Store Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/16/2015
+                                    ",02/04/2015,Roberts,Pat,Sale (Partial),"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/02/2015
+                                    ",02/04/2015,Roberts,Pat,Purchase,"
+TCS
+","
+                                        
+                                            The Container Store Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/02/2015
+                                    ",02/04/2015,Roberts,Pat,Purchase,"
+TWTR
+","
+                                        
+                                            Twitter, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/17/2014
+                                    ",12/29/2014,Toomey,Patrick J,Sale (Full),"
+PFS
+","
+                                        
+                                            Provident Financial Services, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",12/29/2014,Toomey,Patrick J,Purchase,"
+T
+","
+                                        
+                                            AT&T, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/18/2014
+                                    ",12/29/2014,Toomey,Patrick J,Sale (Partial),"
+PFS
+","
+                                        
+                                            Provident Financial Services, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",12/29/2014,Toomey,Patrick J,Purchase,"
+ESV
+","
+                                        
+                                            Ensco plc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

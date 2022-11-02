@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/31/2019
+                                    ",02/26/2019,"King, Jr.",Angus S,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2019
+                                    ",02/26/2019,"King, Jr.",Angus S,Sale (Full),"
+UTX
+","
+                                        
+                                            United Technologies Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2019
+                                    ",02/26/2019,"King, Jr.",Angus S,Sale (Partial),"
+MKC
+","
+                                        
+                                            McCormick & Company, Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/10/2019
+                                    ",02/26/2019,"King, Jr.",Angus S,Sale (Partial),"
+AXP
+","
+                                        
+                                            American Express Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/12/2018
+                                    ",04/20/2018,Smith,Tina,Sale (Partial),"
+CGNT
+","
+                                        
+                                            Cogentix Medical, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/12/2018
+                                    ",04/20/2018,Smith,Tina,Sale (Full),"
+CGNT
+","
+                                        
+                                            Cogentix Medical, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        04/10/2018
+                                    ",04/20/2018,Smith,Tina,Sale (Partial),"
+CGNT
+","
+                                        
+                                            Cogentix Medical, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/13/2017
+                                    ",12/08/2017,Peters,Gary C,Sale (Full),"
+MAT
+","
+                                        
+                                            Mattel, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/13/2017
+                                    ",12/08/2017,Peters,Gary C,Purchase,"
+ARCC
+","
+                                        
+                                            Ares Capital Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/06/2017
+                                    ",12/08/2017,Warner,Mark R,Sale (Full),"
+HALO
+","
+                                        
+                                            Halozyme Therapeutics, Inc.
+                                        
+                                        
+                                        
+                                    ","$500,001 - $1,000,000"

@@ -1,0 +1,23 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/07/2018
+                                    ",10/22/2018,Whitehouse,Sheldon,Purchase,"
+F
+","
+                                        
+                                            Ford Motor Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2018
+                                    ",10/22/2018,Whitehouse,Sheldon,Sale (Full),"
+ON
+","
+                                        
+                                            ON Semiconductor Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

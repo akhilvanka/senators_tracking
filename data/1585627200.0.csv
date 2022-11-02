@@ -1,0 +1,596 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/11/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$5,000,001 - $25,000,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,000,001 - $5,000,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,000,001 - $5,000,000"
+"
+                                        03/11/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$5,000,001 - $25,000,000"
+"
+                                        02/18/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+ICE
+","
+                                        
+                                            Intercontinental Exchange, Inc.
+                                        
+                                        
+                                        
+                                    ","$5,000,001 - $25,000,000"
+"
+                                        02/21/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $40.00
+                                                
+Expires: 07/17/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        02/21/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+K
+","
+                                        
+                                            Kellogg Company
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $60.00
+                                                
+Expires: 09/18/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        02/21/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $175.00
+                                                
+Expires: 07/17/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        02/20/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AIZ
+","
+                                        
+                                            Assurant, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $125.00
+                                                
+Expires: 09/18/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        02/20/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+ABBV
+","
+                                        
+                                            AbbVie Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $80.00
+                                                
+Expires: 08/01/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        02/20/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+DOCU
+","
+                                        
+                                            DocuSign, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        03/13/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/10/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+CVX
+","
+                                        
+                                            Chevron Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        03/10/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AIZ
+","
+                                        
+                                            Assurant, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $100.00
+                                                
+Expires: 01/15/2021
+                                            
+","$15,001 - $50,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+EMR
+","
+                                        
+                                            Emerson Electric Co.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $50.00
+                                                
+Expires: 01/15/2021
+                                            
+","$1,001 - $15,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+CR
+","
+                                        
+                                            Crane Co.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $55.00
+                                                
+Expires: 09/18/2020
+                                            
+","$15,001 - $50,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+HIG
+","
+                                        
+                                            The Hartford Financial Services Group, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $45.00
+                                                
+Expires: 09/18/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        03/04/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AMGN
+","
+                                        
+                                            Amgen Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $180.00
+                                                
+Expires: 10/16/2020
+                                            
+","$15,001 - $50,000"
+"
+                                        03/04/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AIG
+","
+                                        
+                                            American International Group, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $40.00
+                                                
+Expires: 08/21/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        03/04/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+PANW
+","
+                                        
+                                            Palo Alto Networks, Inc.
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $150.00
+                                                
+Expires: 09/18/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        03/04/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+CVX
+","
+                                        
+                                            Chevron Corporation
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $92.50
+                                                
+Expires: 09/18/2020
+                                            
+","$15,001 - $50,000"
+"
+                                        03/04/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+BP
+","
+                                        
+                                            BP PLC
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $30.00
+                                                
+Expires: 11/20/2020
+                                            
+","$1,001 - $15,000"
+"
+                                        03/03/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/02/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/28/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+DD
+","
+                                        
+                                            DuPont de Nemours, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        03/11/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+BKNG
+","
+                                        
+                                            Booking Holdings Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/10/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+BKNG
+","
+                                        
+                                            Booking Holdings Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+HELE
+","
+                                        
+                                            Helen of Troy Limited
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/06/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+BKNG
+","
+                                        
+                                            Booking Holdings Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/09/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+TJX
+","
+                                        
+                                            The TJX Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/03/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+ROST
+","
+                                        
+                                            Ross Stores, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/03/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+LULU
+","
+                                        
+                                            Lululemon Athletica Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/03/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/02/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ROST
+","
+                                        
+                                            Ross Stores, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+CME
+","
+                                        
+                                            CME Group Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AZO
+","
+                                        
+                                            AutoZone, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ADP
+","
+                                        
+                                            Automatic Data Processing, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        02/26/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ARNA
+","
+                                        
+                                            Arena Pharmaceuticals, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/27/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Full),"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+CME
+","
+                                        
+                                            CME Group Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+IPHI
+","
+                                        
+                                            Inphi Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/24/2020
+                                    ",03/31/2020,Loeffler,Kelly,Sale (Partial),"
+ARNA
+","
+                                        
+                                            Arena Pharmaceuticals, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        02/13/2020
+                                    ",03/31/2020,Whitehouse,Sheldon,Sale (Full),"
+WM
+","
+                                        
+                                            Waste Management, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/13/2020
+                                    ",03/31/2020,Whitehouse,Sheldon,Purchase,"
+DLR
+","
+                                        
+                                            Digital Realty Trust, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

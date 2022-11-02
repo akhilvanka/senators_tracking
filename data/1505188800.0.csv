@@ -1,0 +1,100 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/07/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Exchange,"
+BHF
+","
+                                        
+                                            Brighthouse Financial, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Sale (Full),"
+BHF
+","
+                                        
+                                            Brighthouse Financial, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+NWL
+","
+                                        
+                                            Newell Brands Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+TSLA
+","
+                                        
+                                            Tesla, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+DISH
+","
+                                        
+                                            DISH Network Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+SYK
+","
+                                        
+                                            Stryker Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2017
+                                    ",09/12/2017,Whitehouse,Sheldon,Purchase,"
+WMT
+","
+                                        
+                                            Wal-Mart Stores, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,584 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        10/29/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/23/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/28/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+PEP
+","
+                                        
+                                            PepsiCo, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/28/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/28/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/28/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/29/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+TCP
+","
+                                        
+                                            TC PipeLines, LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+EAF
+","
+                                        
+                                            GrafTech International Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+COP
+","
+                                        
+                                            ConocoPhillips Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+STT
+","
+                                        
+                                            State Street Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+USB
+","
+                                        
+                                            U.S. Bancorp
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+KO
+","
+                                        
+                                            The Coca-Cola Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+MSM
+","
+                                        
+                                            MSC Industrial Direct Co., Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+PEP
+","
+                                        
+                                            PepsiCo, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+NWSA
+","
+                                        
+                                            News Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+SYK
+","
+                                        
+                                            Stryker Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+BOIVF
+","
+                                        
+                                            Bollore
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+ORCL
+","
+                                        
+                                            Oracle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+FOX
+","
+                                        
+                                            Fox Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+BK
+","
+                                        
+                                            The Bank of New York Mellon Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+BKNG
+","
+                                        
+                                            Booking Holdings Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+ANTM
+","
+                                        
+                                            Anthem, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+SYY
+","
+                                        
+                                            Sysco Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/30/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+UHAL
+","
+                                        
+                                            AMERCO
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+CBS
+","
+                                        
+                                            CBS Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+CBS
+","
+                                        
+                                            CBS Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/02/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+IP
+","
+                                        
+                                            International Paper Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/10/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+PBA
+","
+                                        
+                                            Pembina Pipeline Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+CTSH
+","
+                                        
+                                            Cognizant Technology Solutions Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+DVN
+","
+                                        
+                                            Devon Energy Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+CBS
+","
+                                        
+                                            CBS Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$500,001 - $1,000,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        10/11/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/15/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+NWSA
+","
+                                        
+                                            News Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/16/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+NWSA
+","
+                                        
+                                            News Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/17/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+TRGP
+","
+                                        
+                                            Targa Resources Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/18/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/23/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Partial),"
+DOW
+","
+                                        
+                                            Dow Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/23/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Sale (Full),"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/23/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+PAA
+","
+                                        
+                                            Plains All American Pipeline, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/25/2019
+                                    ",11/05/2019,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

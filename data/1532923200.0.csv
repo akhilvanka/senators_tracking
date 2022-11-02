@@ -1,0 +1,78 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/05/2018
+                                    ",07/30/2018,Roberts,Pat,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/05/2018
+                                    ",07/30/2018,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/24/2018
+                                    ",07/30/2018,Roberts,Pat,Sale (Full),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/18/2018
+                                    ",07/30/2018,Roberts,Pat,Sale (Full),"
+TGT
+","
+                                        
+                                            Target Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/18/2018
+                                    ",07/30/2018,Roberts,Pat,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/05/2018
+                                    ",07/30/2018,Roberts,Pat,Purchase,"
+TGT
+","
+                                        
+                                            Target Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/05/2018
+                                    ",07/30/2018,Roberts,Pat,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/13/2014
+                                    ",12/03/2014,Roberts,Pat,Sale (Partial),"
+CEA
+","
+                                        
+                                            China Eastern Airlines Corp. Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2014
+                                    ",12/03/2014,Roberts,Pat,Sale (Full),"
+KSU
+","
+                                        
+                                            Kansas City Southern (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/07/2014
+                                    ",12/03/2014,Roberts,Pat,Purchase,"
+ZNGA
+","
+                                        
+                                            Zynga, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2014
+                                    ",12/03/2014,Roberts,Pat,Sale (Full),"
+KSU
+","
+                                        
+                                            Kansas City Southern (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/13/2014
+                                    ",12/03/2014,Roberts,Pat,Sale (Full),"
+BIDU
+","
+                                        
+                                            Baidu, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/07/2014
+                                    ",12/03/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

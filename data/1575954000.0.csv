@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/05/2019
+                                    ",12/10/2019,Toomey,Patrick J,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/06/2019
+                                    ",12/10/2019,Toomey,Patrick J,Sale (Full),"
+ET
+","
+                                        
+                                            Energy Transfer LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/19/2019
+                                    ",12/10/2019,Toomey,Patrick J,Purchase,"
+NDAQ
+","
+                                        
+                                            Nasdaq, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/19/2019
+                                    ",12/10/2019,Toomey,Patrick J,Sale (Full),"
+NDAQ
+","
+                                        
+                                            Nasdaq, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

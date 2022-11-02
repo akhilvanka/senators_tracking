@@ -1,0 +1,727 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/31/2018
+                                    ",01/09/2019,Inhofe,James M,Purchase,"
+XBI
+","
+                                        
+                                            SPDR S&P Biotech ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/31/2018
+                                    ",01/09/2019,Inhofe,James M,Sale (Full),"
+CELG
+","
+                                        
+                                            Celgene Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,Inhofe,James M,Purchase,"
+TEL
+","
+                                        
+                                            TE Connectivity Ltd.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,Inhofe,James M,Sale (Full),"
+APTV
+","
+                                        
+                                            Aptiv PLC
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,Inhofe,James M,Sale (Full),"
+XPO
+","
+                                        
+                                            XPO Logistics, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/31/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Full),"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/31/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/31/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+AXTA
+","
+                                        
+                                            Axalta Coating Systems Ltd.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+SPY
+","
+                                        
+                                            SPDR S&P 500 ETF
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+HBI
+","
+                                        
+                                            Hanesbrands Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+DVN
+","
+                                        
+                                            Devon Energy Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        12/27/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/24/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+ACA
+","
+                                        
+                                            Arcosa, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/24/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/24/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+ACA
+","
+                                        
+                                            Arcosa, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+PAGP
+","
+                                        
+                                            Plains GP Holdings, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+GPK
+","
+                                        
+                                            Graphic Packaging Holding Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Full),"
+VLP
+","
+                                        
+                                            Valero Energy Partners LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Full),"
+SLB
+","
+                                        
+                                            Schlumberger Limited
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+STT
+","
+                                        
+                                            State Street Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+ACA
+","
+                                        
+                                            Arcosa, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/20/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+ET
+","
+                                        
+                                            Energy Transfer LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+MU
+","
+                                        
+                                            Micron Technology, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+KN
+","
+                                        
+                                            Knowles Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+VLP
+","
+                                        
+                                            Valero Energy Partners LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+SU
+","
+                                        
+                                            Suncor Energy Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+SLB
+","
+                                        
+                                            Schlumberger Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Full),"
+UPS
+","
+                                        
+                                            United Parcel Service, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+UPS
+","
+                                        
+                                            United Parcel Service, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+KN
+","
+                                        
+                                            Knowles Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+UPS
+","
+                                        
+                                            United Parcel Service, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+UPS
+","
+                                        
+                                            United Parcel Service, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/12/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/11/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/11/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/11/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/10/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/10/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/06/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/04/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2018
+                                    ",01/09/2019,"Perdue , Jr",David A,Purchase,"
+LGF-B
+","
+                                        
+                                            Lions Gate Entertainment Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

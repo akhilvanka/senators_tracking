@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/30/2018
+                                    ",09/19/2018,Smith,Tina,Sale (Partial),"
+PODD
+","
+                                        
+                                            Insulet Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        08/30/2018
+                                    ",09/19/2018,Smith,Tina,Sale (Full),"
+CUTR
+","
+                                        
+                                            Cutera, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        08/30/2018
+                                    ",09/19/2018,Smith,Tina,Sale (Full),"
+CUTR
+","
+                                        
+                                            Cutera, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/30/2018
+                                    ",09/19/2018,Smith,Tina,Sale (Full),"
+PODD
+","
+                                        
+                                            Insulet Corporation
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"

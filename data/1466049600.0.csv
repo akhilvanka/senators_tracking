@@ -1,0 +1,455 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/17/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+VFC
+","
+                                        
+                                            V.F. Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+CMCSA
+","
+                                        
+                                            Comcast Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+AMGN
+","
+                                        
+                                            Amgen Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/07/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+PSA
+","
+                                        
+                                            Public Storage
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/07/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+ACN
+","
+                                        
+                                            Accenture plc
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/07/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/07/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/17/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+VFC
+","
+                                        
+                                            V.F. Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+NWL
+","
+                                        
+                                            Newell Brands Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+DEO
+","
+                                        
+                                            Diageo plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/18/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+CERN
+","
+                                        
+                                            Cerner Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+REGN
+","
+                                        
+                                            Regeneron Pharmaceuticals, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+CMCSA
+","
+                                        
+                                            Comcast Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/24/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+TWTR
+","
+                                        
+                                            Twitter, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/07/2016
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/20/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+UA
+","
+                                        
+                                            Under Armour, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/20/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+WMT
+","
+                                        
+                                            Wal-Mart Stores Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/23/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+CERN
+","
+                                        
+                                            Cerner Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            MSFT
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/09/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            JNJ
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/09/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            BMY
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GILD
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            BIIB
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            NFLX
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            PEP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            CY
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            TJX
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GPRO
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/25/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            BIIB
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/14/2015
+                                    ",06/16/2016,Whitehouse,Sheldon,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            QCOM
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/02/2016
+                                    ",06/16/2016,Toomey,Patrick J,Sale (Partial),"
+MTUM
+","
+                                        
+                                            iShares Edge MSCI USA Momentum Factor
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/02/2016
+                                    ",06/16/2016,Toomey,Patrick J,Sale (Partial),"
+SHY
+","
+                                        
+                                            iShares 1-3 Year Treasury Bond
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/09/2016
+                                    ",06/16/2016,Toomey,Patrick J,Sale (Partial),"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

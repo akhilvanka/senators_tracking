@@ -1,0 +1,595 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+WFC
+","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+VZ
+","
+                                        
+                                            Verizon Communications Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+TXN
+","
+                                        
+                                            Texas Instruments Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Full),"
+JNK
+","
+                                        
+                                            SPDR Bloomberg Barclays High Yield Bond ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+MPC
+","
+                                        
+                                            Marathon Petroleum Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+JNJ
+","
+                                        
+                                            Johnson & Johnson
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Full),"
+GIS
+","
+                                        
+                                            General Mills, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+KO
+","
+                                        
+                                            The Coca-Cola Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+WFC
+","
+                                        
+                                            Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+VZ
+","
+                                        
+                                            Verizon Communications Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+USB
+","
+                                        
+                                            U.S. Bancorp
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+TXN
+","
+                                        
+                                            Texas Instruments Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+JNK
+","
+                                        
+                                            SPDR Bloomberg Barclays High Yield Bond ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+MPC
+","
+                                        
+                                            Marathon Petroleum Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+JNJ
+","
+                                        
+                                            Johnson & Johnson
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Full),"
+GIS
+","
+                                        
+                                            General Mills, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+KO
+","
+                                        
+                                            The Coca-Cola Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+BRK-B
+","
+                                        
+                                            Berkshire Hathaway Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/25/2019
+                                    ",08/05/2020,"Moran,  ",Jerry,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/06/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+TGT
+","
+                                        
+                                            Target Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/31/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+AAL
+","
+                                        
+                                            American Airlines Group Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+AAL
+","
+                                        
+                                            American Airlines Group Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+MA
+","
+                                        
+                                            Mastercard Incorporated
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        07/27/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/15/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/13/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/07/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+AAL
+","
+                                        
+                                            American Airlines Group Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Sale (Full),"
+WMT
+","
+                                        
+                                            Walmart Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/02/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+SPOT
+","
+                                        
+                                            Spotify Technology S.A.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/01/2020
+                                    ",08/05/2020,Roberts,Pat,Purchase,"
+BYND
+","
+                                        
+                                            Beyond Meat, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

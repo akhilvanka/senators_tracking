@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        10/23/2017
+                                    ",10/24/2017,Reed,John F,Purchase,"
+XSD
+","
+                                        
+                                            SPDR S&P Semiconductor ETF
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/23/2017
+                                    ",10/24/2017,Reed,John F,Sale (Full),"
+LSCC
+","
+                                        
+                                            Lattice Semiconductor Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/23/2017
+                                    ",10/24/2017,Reed,John F,Sale (Full),"
+AGN
+","
+                                        
+                                            Allergan plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

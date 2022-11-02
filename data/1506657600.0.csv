@@ -1,0 +1,183 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/27/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/27/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+RTN
+","
+                                        
+                                            Raytheon Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/27/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            AAPL-Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+COF
+","
+                                        
+                                            Capital One Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+WF
+","
+                                        
+                                            Woori Bank Co., Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+T
+","
+                                        
+                                            AT&T Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/07/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/07/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+CELG
+","
+                                        
+                                            Celgene Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+TCS
+","
+                                        
+                                            The Container Store Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/28/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            NVDA-NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/28/2017
+                                    ",09/29/2017,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/26/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+TCS
+","
+                                        
+                                            The Container Store Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/07/2017
+                                    ",09/29/2017,Roberts,Pat,Sale (Full),"
+BIDU
+","
+                                        
+                                            Baidu, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

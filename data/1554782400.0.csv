@@ -1,0 +1,581 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/20/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+DIS
+","
+                                        
+                                            21st Century Fox Class B (Exchanged)
+                                            
+                                            The Walt Disney Company (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/20/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+DIS
+","
+                                        
+                                            21st Century Fox Class A (Exchanged)
+                                            
+                                            The Walt Disney Company (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/05/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/05/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/05/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/03/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/03/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/03/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/02/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/02/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/02/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/13/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                            
+AM
+","
+                                        
+                                            Antero Midstream Partners, LP (Exchanged)
+                                            
+                                            Antero Midstream Corporation (Received)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/29/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/29/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+KMI
+","
+                                        
+                                            Kinder Morgan, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/28/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/26/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+BKNG
+","
+                                        
+                                            Booking Holdings Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/25/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/25/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/25/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+ORCL
+","
+                                        
+                                            Oracle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/25/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+GOOG
+","
+                                        
+                                            Alphabet Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/21/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Full),"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/19/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+ET
+","
+                                        
+                                            Energy Transfer LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+MPLX
+","
+                                        
+                                            MPLX LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/18/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+TRGP
+","
+                                        
+                                            Targa Resources Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/18/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Purchase,"
+WES
+","
+                                        
+                                            Western Midstream Partners, LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/13/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/08/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/07/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+TRP
+","
+                                        
+                                            TransCanada Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/07/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/07/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+TRP
+","
+                                        
+                                            TransCanada Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/06/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+TRP
+","
+                                        
+                                            TransCanada Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/01/2019
+                                    ",04/09/2019,"Perdue , Jr",David A,Sale (Partial),"
+BWXT
+","
+                                        
+                                            BWX Technologies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/01/2018
+                                    ",04/09/2019,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Hormel Foods
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/08/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+XSLV
+","
+                                        
+                                            Invesco S&P SmallCap Low Volatility ETF
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+PRNHX
+","
+                                        
+                                            T. Rowe Price New Horizons
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+FLMVX
+","
+                                        
+                                            JPMorgan Mid Cap Value L
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+FCNTX
+","
+                                        
+                                            Fidelity Contrafund
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+TGT
+","
+                                        
+                                            Target Corporation
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+MET
+","
+                                        
+                                            MetLife, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+IVZ
+","
+                                        
+                                            Invesco Ltd.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+KDP
+","
+                                        
+                                            Keurig Dr Pepper Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/22/2019
+                                    ",04/09/2019,Hoeven,John,Purchase,"
+CCI
+","
+                                        
+                                            Crown Castle International Corp. (REIT)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        12/10/2018
+                                    ",04/09/2019,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Compass Materials
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

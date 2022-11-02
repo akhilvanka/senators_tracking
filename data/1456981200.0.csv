@@ -1,0 +1,293 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/16/2016
+                                    ",03/03/2016,Carper,Thomas R,Sale (Full),"
+ADT.F
+","
+                                        
+                                            ADT CORPORATION
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/11/2016
+                                    ",03/03/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Boeing Co
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2016
+                                    ",03/03/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Met Life Inc
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/18/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+CG
+","
+                                        
+                                            The Carlyle Group LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/12/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+IR
+","
+                                        
+                                            Ingersoll-Rand Plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/08/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/03/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+VILLX
+","
+                                        
+                                            Villere Balanced Inv
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/02/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+TEVA
+","
+                                        
+                                            Teva Pharmaceutical Industries Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/02/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+AMAT
+","
+                                        
+                                            Applied Materials, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        02/02/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+AXE
+","
+                                        
+                                            Anixter International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/01/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+D
+","
+                                        
+                                            Dominion Resources, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/29/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+AXE
+","
+                                        
+                                            Anixter International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+ZION
+","
+                                        
+                                            Zions Bancorporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+IP
+","
+                                        
+                                            International Paper Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/22/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+KKR
+","
+                                        
+                                            KKR &amp; Co. L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+IR
+","
+                                        
+                                            Ingersoll-Rand Plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+KHC
+","
+                                        
+                                            The Kraft Heinz Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Partial),"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+MPW
+","
+                                        
+                                            Medical Properties Trust Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/08/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+HDS
+","
+                                        
+                                            HD Supply Holdings, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Partial),"
+CVS
+","
+                                        
+                                            CVS Health Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/07/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+MSM
+","
+                                        
+                                            MSC Industrial Direct Co. Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/07/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+MDLZ
+","
+                                        
+                                            Mondelez International, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+GEL
+","
+                                        
+                                            Genesis Energy LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2016
+                                    ",03/03/2016,Cochran,Thad,Sale (Full),"
+ETE
+","
+                                        
+                                            Energy Transfer Equity, L.P.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/29/2015
+                                    ",03/03/2016,Cochran,Thad,Purchase,"
+LKQ
+","
+                                        
+                                            LKQ Corp.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

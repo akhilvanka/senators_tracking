@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/15/2020
+                                    ",07/24/2020,Inhofe,James M,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/15/2020
+                                    ",07/24/2020,Inhofe,James M,Sale (Partial),"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/29/2020
+                                    ",07/24/2020,Inhofe,James M,Sale (Partial),"
+BAM
+","
+                                        
+                                            Brookfield Asset Management Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

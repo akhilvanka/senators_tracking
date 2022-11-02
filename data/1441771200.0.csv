@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        07/31/2015
+                                    ",09/09/2015,Cochran,Thad,Purchase,"
+CR
+","
+                                        
+                                            Crane Co. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/28/2015
+                                    ",09/09/2015,Cochran,Thad,Sale (Full),"
+APO
+","
+                                        
+                                            Apollo Global Management, LLC (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/22/2015
+                                    ",09/09/2015,Cochran,Thad,Purchase,"
+KSU
+","
+                                        
+                                            Kansas City Southern (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        07/17/2015
+                                    ",09/09/2015,Cochran,Thad,Purchase,"
+BURFX
+","
+                                        
+                                            Burnham Financial Long/Short A (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        07/16/2015
+                                    ",09/09/2015,Cochran,Thad,Purchase,"
+KHC
+","
+                                        
+                                            The Kraft Heinz Company (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$250,001 - $500,000"
+"
+                                        07/15/2015
+                                    ",09/09/2015,Cochran,Thad,Purchase,"
+OAKIX
+","
+                                        
+                                            Oakmark International I (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

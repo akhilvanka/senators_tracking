@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/27/2014
+                                    ",04/01/2014,Collins,Susan M,Purchase,"
+M
+","
+                                        
+                                            Macy's, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/27/2014
+                                    ",04/01/2014,Collins,Susan M,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/27/2014
+                                    ",04/01/2014,Collins,Susan M,Sale (Partial),"
+BIIB
+","
+                                        
+                                            Biogen Idec Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/27/2014
+                                    ",04/01/2014,Collins,Susan M,Sale (Partial),"
+CELG
+","
+                                        
+                                            Celgene Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

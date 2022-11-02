@@ -1,0 +1,122 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        10/23/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/17/2019
+                                    ",11/03/2019,Roberts,Pat,Sale (Full),"
+KTB
+","
+                                        
+                                            Kontoor Brands, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+KTB
+","
+                                        
+                                            Kontoor Brands, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/03/2019,Roberts,Pat,Sale (Full),"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+MA
+","
+                                        
+                                            Mastercard Incorporated
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/15/2019
+                                    ",11/03/2019,Roberts,Pat,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/01/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/01/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/03/2019
+                                    ",11/03/2019,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/01/2019
+                                    ",11/03/2019,Roberts,Pat,Sale (Full),"
+CELG
+","
+                                        
+                                            Celgene Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

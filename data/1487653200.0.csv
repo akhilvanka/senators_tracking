@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/30/2017
+                                    ",02/21/2017,Reed,John F,Sale (Full),"
+EMR
+","
+                                        
+                                            Emerson Electric Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/30/2017
+                                    ",02/21/2017,Reed,John F,Purchase,"
+HON
+","
+                                        
+                                            Honeywell International Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/31/2017
+                                    ",02/21/2017,Reed,John F,Sale (Partial),"
+PEP
+","
+                                        
+                                            Pepsico, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/31/2017
+                                    ",02/21/2017,Reed,John F,Sale (Partial),"
+PEP
+","
+                                        
+                                            Pepsico, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

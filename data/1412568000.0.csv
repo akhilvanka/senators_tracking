@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/03/2014
+                                    ",10/06/2014,Roberts,Pat,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/02/2014
+                                    ",10/06/2014,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/22/2014
+                                    ",10/06/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/12/2014
+                                    ",10/06/2014,Roberts,Pat,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/12/2014
+                                    ",10/06/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/02/2014
+                                    ",10/06/2014,Roberts,Pat,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

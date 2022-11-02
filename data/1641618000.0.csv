@@ -1,0 +1,23 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/03/2022
+                                    ",01/08/2022,Peters,Gary C,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporation Common
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/07/2021
+                                    ",01/08/2022,Peters,Gary C,Purchase,"
+HBAN
+","
+                                        
+                                            Huntington Bancshares Incorporated - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

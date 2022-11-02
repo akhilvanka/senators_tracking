@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/12/2019
+                                    ",12/01/2019,Roberts,Pat,Purchase,"
+MA
+","
+                                        
+                                            Mastercard Incorporated
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2019
+                                    ",12/01/2019,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2019
+                                    ",12/01/2019,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2019
+                                    ",12/01/2019,Roberts,Pat,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

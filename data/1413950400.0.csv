@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        10/01/2014
+                                    ",10/22/2014,Hoeven,John,Exchange,"
+CDK
+","
+                                        
+                                            CDK Global, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/20/2014
+                                    ",10/22/2014,Hoeven,John,Purchase,"
+AJG
+","
+                                        
+                                            Arthur J Gallagher & Co. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        10/20/2014
+                                    ",10/22/2014,Hoeven,John,Purchase,"
+CMI
+","
+                                        
+                                            Cummins Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        09/29/2014
+                                    ",10/22/2014,Hoeven,John,Sale (Full),"
+BA
+","
+                                        
+                                            The Boeing Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        09/29/2014
+                                    ",10/22/2014,Hoeven,John,Sale (Full),"
+ABBV
+","
+                                        
+                                            AbbVie Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        09/29/2014
+                                    ",10/22/2014,Hoeven,John,Purchase,"
+SBUX
+","
+                                        
+                                            Starbucks Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"

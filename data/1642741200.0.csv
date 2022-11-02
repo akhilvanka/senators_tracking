@@ -1,0 +1,455 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+USB
+","
+                                        
+                                            U.S. Bancorp Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Full),"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+CVS
+","
+                                        
+                                            CVS Health Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+BRK.B
+","
+                                        
+                                            Berkshire Hathaway Inc. New Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+PII
+","
+                                        
+                                            Polaris Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+KMB
+","
+                                        
+                                            Kimberly-Clark Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CMCSA
+","
+                                        
+                                            Comcast Corporation - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CI
+","
+                                        
+                                            Cigna Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+BK
+","
+                                        
+                                            The Bank of New York Mellon Corporation Common Sto
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+USB
+","
+                                        
+                                            U.S. Bancorp Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+KR
+","
+                                        
+                                            Kroger Company (The) Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Full),"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+FB
+","
+                                        
+                                            Facebook, Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+DVA
+","
+                                        
+                                            DaVita Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+CVS
+","
+                                        
+                                            CVS Health Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+BRK.B
+","
+                                        
+                                            Berkshire Hathaway Inc. New Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Sale (Partial),"
+GOOG
+","
+                                        
+                                            Alphabet Inc. - Class C Capital Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+VZ
+","
+                                        
+                                            Verizon Communications Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+PII
+","
+                                        
+                                            Polaris Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+KMB
+","
+                                        
+                                            Kimberly-Clark Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CMCSA
+","
+                                        
+                                            Comcast Corporation - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+CI
+","
+                                        
+                                            Cigna Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/21/2021
+                                    ",01/21/2022,"Moran,  ",Jerry,Purchase,"
+BK
+","
+                                        
+                                            The Bank of New York Mellon Corporation Common Sto
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2021
+                                    ",01/21/2022,Capito,Shelley M,Sale (Full),"
+NVS
+","
+                                        
+                                            Novartis AG Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2021
+                                    ",01/21/2022,Capito,Shelley M,Sale (Partial),"
+VZ
+","
+                                        
+                                            Verizon Communications Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2021
+                                    ",01/21/2022,Capito,Shelley M,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/28/2021
+                                    ",01/21/2022,Capito,Shelley M,Sale (Partial),"
+SMFG
+","
+                                        
+                                            Sumitomo Mitsui Financial Group Inc Unsponsored Am
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2021
+                                    ",01/21/2022,Capito,Shelley M,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            UnitedHealth Group Incorporated Common Stock (DE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2021
+                                    ",01/21/2022,Capito,Shelley M,Purchase,"
+AMGN
+","
+                                        
+                                            Amgen Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

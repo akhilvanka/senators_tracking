@@ -1,0 +1,353 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+TM
+","
+                                        
+                                            Toyota Motor Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+RDS-B
+","
+                                        
+                                            Royal Dutch Shell plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Partial),"
+SLB
+","
+                                        
+                                            Schlumberger Limited
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+OXY
+","
+                                        
+                                            Occidental Petroleum Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+F
+","
+                                        
+                                            Ford Motor Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Partial),"
+XOM
+","
+                                        
+                                            Exxon Mobil Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+CMI
+","
+                                        
+                                            Cummins Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Partial),"
+CVX
+","
+                                        
+                                            Chevron Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+CTL
+","
+                                        
+                                            CenturyLink, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+CAT
+","
+                                        
+                                            Caterpillar Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Partial),"
+AMT
+","
+                                        
+                                            American Tower Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Partial),"
+T
+","
+                                        
+                                            AT&T, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/29/2016
+                                    ",05/02/2016,Cassidy,William,Sale (Full),"
+YACKX
+","
+                                        
+                                            AMG Yacktman Service
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+WMT
+","
+                                        
+                                            Wal-Mart Stores Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+VFC
+","
+                                        
+                                            V.F. Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+UTX
+","
+                                        
+                                            United Technologies Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+SO
+","
+                                        
+                                            Southern Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+PG
+","
+                                        
+                                            The Procter & Gamble Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+PX
+","
+                                        
+                                            Praxair Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+NVS
+","
+                                        
+                                            Novartis AG
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+NSC
+","
+                                        
+                                            Norfolk Southern Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+LOW
+","
+                                        
+                                            Lowe's Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+JNJ
+","
+                                        
+                                            Johnson & Johnson
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+EMR
+","
+                                        
+                                            Emerson Electric Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+EV
+","
+                                        
+                                            Eaton Vance Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+BLK
+","
+                                        
+                                            BlackRock, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+ABT
+","
+                                        
+                                            Abbott Laboratories
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/31/2016
+                                    ",05/02/2016,Cassidy,William,Purchase,"
+AFL
+","
+                                        
+                                            Aflac Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

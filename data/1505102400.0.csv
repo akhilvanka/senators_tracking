@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/30/2017
+                                    ",09/11/2017,Capito,Shelley M,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/22/2017
+                                    ",09/11/2017,Capito,Shelley M,Sale (Full),"
+SCG
+","
+                                        
+                                            SCANA Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/18/2017
+                                    ",09/11/2017,Capito,Shelley M,Sale (Full),"
+SO
+","
+                                        
+                                            The Southern Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

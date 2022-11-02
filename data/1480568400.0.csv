@@ -1,0 +1,95 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/14/2016
+                                    ",12/01/2016,Roberts,Pat,Purchase,"
+NOC
+","
+                                        
+                                            Northrop Grumman Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/14/2016
+                                    ",12/01/2016,Roberts,Pat,Purchase,"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/15/2016
+                                    ",12/01/2016,Roberts,Pat,Sale (Full),"
+HDS
+","
+                                        
+                                            HD Supply Holdings, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2016
+                                    ",12/01/2016,Carper,Thomas R,Purchase,"
+RAI
+","
+                                        
+                                            Reynolds American Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/17/2016
+                                    ",12/01/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Philip Morris Intl
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/14/2016
+                                    ",12/01/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Central Fund of Canada Ltd A
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/14/2016
+                                    ",12/01/2016,Carper,Thomas R,Sale (Full),"
+SCCO
+","
+                                        
+                                            Southern Copper Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/08/2016
+                                    ",12/01/2016,Carper,Thomas R,Sale (Full),"
+ASIX
+","
+                                        
+                                            AdvanSix Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

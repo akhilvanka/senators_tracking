@@ -1,0 +1,78 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/13/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Purchase,"
+GS
+","
+                                        
+                                            The Goldman Sachs Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Purchase,"
+GS
+","
+                                        
+                                            The Goldman Sachs Group, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/23/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Sale (Partial),"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/23/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Sale (Full),"
+PSA
+","
+                                        
+                                            Public Storage
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/23/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Sale (Partial),"
+BIIB
+","
+                                        
+                                            Biogen Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Sale (Full),"
+BIIB
+","
+                                        
+                                            Biogen Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/23/2016
+                                    ",01/11/2017,Whitehouse,Sheldon,Sale (Partial),"
+AMGN
+","
+                                        
+                                            Amgen Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

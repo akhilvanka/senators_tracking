@@ -1,0 +1,725 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/05/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $52.50
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/24/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+GOLD
+","
+                                        
+                                            Barrick Gold Corporation Common Stock (BC)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited American Depositary
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $245.00
+                                                
+Expires: 01/21/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $170.00
+                                                
+Expires: 07/15/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited American Depositary
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $230.00
+                                                
+Expires: 09/16/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+BABA
+","
+                                        
+                                            Alibaba Group Holding Limited American Depositary
+                                        
+                                        
+                                        
+                                            Option Type: Put Strike price: $230.00
+                                                
+Expires: 09/16/2022
+                                            
+","$50,001 - $100,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $165.00
+                                                
+Expires: 01/20/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $23.00
+                                                
+Expires: 07/15/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $23.00
+                                                
+Expires: 01/21/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+X
+","
+                                        
+                                            United States Steel Corporation Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$15,001 - $50,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $55.00
+                                                
+Expires: 01/20/2023
+                                            
+","$15,001 - $50,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+WBA
+","
+                                        
+                                            Walgreens Boots Alliance, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+VZ
+","
+                                        
+                                            Verizon Communications Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+MMM
+","
+                                        
+                                            3M Company Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+PFE
+","
+                                        
+                                            Pfizer, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+IBM
+","
+                                        
+                                            International Business Machines Corporat
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+KO
+","
+                                        
+                                            Coca-Cola Company (The) Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+CSCO
+","
+                                        
+                                            Cisco Systems, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+CVX
+","
+                                        
+                                            Chevron Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+DOW
+","
+                                        
+                                            Dow Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/12/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Purchase,"
+AMGN
+","
+                                        
+                                            Amgen Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/05/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+INTC
+","
+                                        
+                                            Intel Corporation - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $52.50
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/04/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CLF
+","
+                                        
+                                            Cleveland-Cliffs Inc. Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $22.00
+                                                
+Expires: 07/15/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/03/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/03/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/03/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/03/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+SSYS
+","
+                                        
+                                            Stratasys, Ltd. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $25.00
+                                                
+Expires: 06/17/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+DUK
+","
+                                        
+                                            Duke Energy Corporation (Holding Company) Common S
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+MDT
+","
+                                        
+                                            Medtronic plc. Ordinary Shares
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+ABBV
+","
+                                        
+                                            AbbVie Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+ABC
+","
+                                        
+                                            AmerisourceBergen Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CTAS
+","
+                                        
+                                            Cintas Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+LMT
+","
+                                        
+                                            Lockheed Martin Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+PEP
+","
+                                        
+                                            PepsiCo, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+PM
+","
+                                        
+                                            Philip Morris International Inc Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+PONCX
+","
+                                        
+                                            Pimco Income Fund Class C
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+PG
+","
+                                        
+                                            Procter & Gamble Company (The) Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+TSN
+","
+                                        
+                                            Tyson Foods, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/21/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+XEL
+","
+                                        
+                                            Xcel Energy Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+ABQCX
+","
+                                        
+                                            Ab Bond Fund Inc. - Ab Total Return Bond Portfo
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+FUN
+","
+                                        
+                                            Cedar Fair, L.P. Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CRWD
+","
+                                        
+                                            CrowdStrike Holdings, Inc. - Class A Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+FGSCX
+","
+                                        
+                                            Federated Mdt Mid Cap Growth Fund - C Shares
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+GILD
+","
+                                        
+                                            Gilead Sciences, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CLOU
+","
+                                        
+                                            Global X Cloud Computing ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+NWL
+","
+                                        
+                                            Newell Brands Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+PEGA
+","
+                                        
+                                            Pegasystems Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/13/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+VTRS
+","
+                                        
+                                            Viatris Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+ACN
+","
+                                        
+                                            Accenture plc Class A Ordinary Shares (Ireland)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+ADBE
+","
+                                        
+                                            Adobe Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+AWK
+","
+                                        
+                                            American Water Works Company, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+CTAS
+","
+                                        
+                                            Cintas Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+LLY
+","
+                                        
+                                            Eli Lilly and Company Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+MA
+","
+                                        
+                                            Mastercard Incorporated Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+NEE
+","
+                                        
+                                            NextEra Energy, Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+RTX
+","
+                                        
+                                            Raytheon Technologies Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2022
+                                    ",02/14/2022,Tuberville,Thomas H,Sale (Full),"
+WMT
+","
+                                        
+                                            Walmart Inc. Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

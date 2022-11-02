@@ -1,0 +1,368 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/27/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+GM
+","
+                                        
+                                            General Motors Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/24/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+HBI
+","
+                                        
+                                            Hanesbrands Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/20/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+WMB
+","
+                                        
+                                            The Williams Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/20/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/17/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/16/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/16/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/16/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/15/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/15/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+AXTA
+","
+                                        
+                                            Axalta Coating Systems Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/14/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/13/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/10/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Exchange,"
+WPZ
+
+WMB
+","
+                                        
+                                            Williams Partners L.P. (Exchanged)
+                                            
+                                            The Williams Companies, Inc. (Received)
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        08/08/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/08/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/08/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/08/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/08/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+WPX
+","
+                                        
+                                            WPX Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/07/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/07/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/06/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+GLW
+","
+                                        
+                                            Corning Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/03/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+DISCA
+","
+                                        
+                                            Discovery, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/02/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+FDC
+","
+                                        
+                                            First Data Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Sale (Partial),"
+MOS
+","
+                                        
+                                            The Mosaic Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/01/2018
+                                    ",09/04/2018,"Perdue , Jr",David A,Purchase,"
+CZR
+","
+                                        
+                                            Caesars Entertainment Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

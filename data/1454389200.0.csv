@@ -1,0 +1,871 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        01/20/2016
+                                    ",02/02/2016,Roberts,Pat,Purchase,"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Walt Disney Co Hldg
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Boeing Co
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Lincoln Naitonal Corp
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Tyco Intl PLC
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            E I Dupont de Nemours
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Under Armour Inc Cl A
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Verizon Communications
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Cisco Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            3M Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Ameren Corp
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Enersis S.A. Amer Dep shrs
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/15/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            E I Dupont de Nemours
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Clearbridge American Energy MLP Fund
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Blackrock Global Opportunity Equity Tr
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Dominion Resources
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Blackrock Res & Comm Strat Tr
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/11/2016
+                                    ",02/02/2016,Carper,Thomas R,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Northern Tier Energy LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WLK
+","
+                                        
+                                            Westlake Chemical Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WLK
+","
+                                        
+                                            Westlake Chemical Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/29/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WFM
+","
+                                        
+                                            Whole Foods Market, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/28/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/27/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/26/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/25/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/22/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/22/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/22/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/21/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+PG
+","
+                                        
+                                            The Procter &amp; Gamble Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+MO
+","
+                                        
+                                            Altria Group Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+WMB
+","
+                                        
+                                            Williams Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+NKE
+","
+                                        
+                                            NIKE, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+KHC
+","
+                                        
+                                            The Kraft Heinz Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WFM
+","
+                                        
+                                            Whole Foods Market, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/20/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+HYH
+","
+                                        
+                                            Halyard Health, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/15/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WLK
+","
+                                        
+                                            Westlake Chemical Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/15/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+WFM
+","
+                                        
+                                            Whole Foods Market, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/14/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+KN
+","
+                                        
+                                            Knowles Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+LYV
+","
+                                        
+                                            Live Nation Entertainment, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+PFE
+","
+                                        
+                                            Pfizer Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/13/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+GE
+","
+                                        
+                                            General Electric Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/11/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GE
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/11/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            LYV
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/08/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GE
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/08/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            LYV
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            QCOM
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            WBA
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            CRMT
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/07/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            ACN
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/06/2016
+                                    ",02/02/2016,"Perdue , Jr",David A,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            GE
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

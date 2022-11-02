@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/07/2016
+                                    ",03/25/2016,Hoeven,John,Purchase,"
+IVZ
+","
+                                        
+                                            Invesco Ltd.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/07/2016
+                                    ",03/25/2016,Hoeven,John,Purchase,"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/07/2016
+                                    ",03/25/2016,Hoeven,John,Purchase,"
+FB
+","
+                                        
+                                            Facebook, Inc.
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        03/07/2016
+                                    ",03/25/2016,Hoeven,John,Purchase,"
+GOOG
+","
+                                        
+                                            Alphabet Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

@@ -1,0 +1,67 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        09/08/2014
+                                    ",09/15/2014,Cochran,Thad,Purchase,"
+CTRX
+","
+                                        
+                                            Catamaran Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/05/2014
+                                    ",09/15/2014,Cochran,Thad,Sale (Full),"
+TXT
+","
+                                        
+                                            Textron Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/05/2014
+                                    ",09/15/2014,Cochran,Thad,Purchase,"
+DFS
+","
+                                        
+                                            Discover Financial Services (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/04/2014
+                                    ",09/15/2014,Cochran,Thad,Sale (Full),"
+TXT
+","
+                                        
+                                            Textron Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/04/2014
+                                    ",09/15/2014,Cochran,Thad,Purchase,"
+GSJK
+","
+                                        
+                                            Compressco Partners, L.P. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        09/03/2014
+                                    ",09/15/2014,Cochran,Thad,Purchase,"
+USAC
+","
+                                        
+                                            USA Compression Partners, LP (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

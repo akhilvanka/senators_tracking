@@ -1,0 +1,336 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/09/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Exchange,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            BBT.F - BB&T CORP F PERPTL PFD (Exchanged)
+                                            
+                                            TFC.F - TRUIST FINL CORP F PFD (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/03/2020
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+RF
+","
+                                        
+                                            Regions Financial Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        01/02/2020
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/02/2020
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/31/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/31/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+BAH
+","
+                                        
+                                            Booz Allen Hamilton Holding Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/31/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+DOW
+","
+                                        
+                                            Dow Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/31/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+KMI
+","
+                                        
+                                            Kinder Morgan, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/30/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/23/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+ACA
+","
+                                        
+                                            Arcosa, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/19/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+FDX
+","
+                                        
+                                            FedEx Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/17/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+PAA
+","
+                                        
+                                            Plains All American Pipeline, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/16/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/16/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+ENTG
+","
+                                        
+                                            Entegris, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/16/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+LNG
+","
+                                        
+                                            Cheniere Energy, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Partial),"
+SUN
+","
+                                        
+                                            Sunoco LP
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/13/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Sale (Full),"
+IP
+","
+                                        
+                                            International Paper Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/11/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/10/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+PAA
+","
+                                        
+                                            Plains All American Pipeline, L.P.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/10/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+TRGP
+","
+                                        
+                                            Targa Resources Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+TRGP
+","
+                                        
+                                            Targa Resources Corp.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/06/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/05/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+ALB
+","
+                                        
+                                            Albemarle Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2019
+                                    ",01/10/2020,"Perdue , Jr",David A,Purchase,"
+URBN
+","
+                                        
+                                            Urban Outfitters, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

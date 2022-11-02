@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/19/2021
+                                    ",06/03/2021,Hickenlooper,John W,Sale (Partial),"
+CMG
+","
+                                        
+                                            Chipotle Mexican Grill, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        05/10/2021
+                                    ",06/03/2021,Hickenlooper,John W,Sale (Full),"
+QRTEA
+","
+                                        
+                                            Qurate Retail, Inc.
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"
+"
+                                        05/10/2021
+                                    ",06/03/2021,Hickenlooper,John W,Purchase,"
+TTD
+","
+                                        
+                                            The Trade Desk, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/04/2021
+                                    ",06/03/2021,Hickenlooper,John W,Purchase,"
+PTON
+","
+                                        
+                                            Peloton Interactive, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

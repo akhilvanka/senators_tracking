@@ -1,0 +1,74 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/29/2018
+                                    ",12/08/2018,Capito,Shelley M,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/29/2018
+                                    ",12/08/2018,Capito,Shelley M,Sale (Full),"
+QCOM
+","
+                                        
+                                            QUALCOMM Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/29/2018
+                                    ",12/08/2018,Capito,Shelley M,Sale (Full),"
+IBM
+","
+                                        
+                                            International Business Machines Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/12/2018
+                                    ",12/08/2018,Capito,Shelley M,Sale (Full),"
+INCY
+","
+                                        
+                                            Incyte Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/13/2018
+                                    ",12/08/2018,Capito,Shelley M,Sale (Full),"
+SHECY
+","
+                                        
+                                            Shin-Etsu Chemical Co., Ltd.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/31/2018
+                                    ",12/08/2018,Capito,Shelley M,Exchange,"
+LIN
+
+PX
+","
+                                        
+                                            Linde plc (Exchanged)
+                                            
+                                            Praxair, Inc. (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

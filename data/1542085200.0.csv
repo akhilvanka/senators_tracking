@@ -1,0 +1,93 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        10/31/2018
+                                    ",11/13/2018,Collins,Susan M,Sale (Partial),"
+AON
+","
+                                        
+                                            Aon plc
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/02/2018
+                                    ",11/13/2018,Collins,Susan M,Sale (Full),"
+SBUX
+","
+                                        
+                                            Starbucks Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/31/2018
+                                    ",11/13/2018,Collins,Susan M,Exchange,"
+PX
+
+LIN
+","
+                                        
+                                            Praxair, Inc. (Exchanged)
+                                            
+                                            Linde plc (Received)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/16/2018
+                                    ",11/13/2018,Collins,Susan M,Sale (Full),"
+HON
+","
+                                        
+                                            Honeywell International Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/16/2018
+                                    ",11/13/2018,Collins,Susan M,Purchase,"
+TJX
+","
+                                        
+                                            The TJX Companies, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/02/2018
+                                    ",11/13/2018,Collins,Susan M,Purchase,"
+AMZN
+","
+                                        
+                                            Amazon.com, Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        10/23/2018
+                                    ",11/13/2018,Heller,Dean,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        10/26/2018
+                                    ",11/13/2018,Heller,Dean,Purchase,"
+UNH
+","
+                                        
+                                            UnitedHealth Group Incorporated
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

@@ -1,0 +1,203 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        05/15/2015
+                                    ",06/03/2015,Roberts,Pat,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            ZNGA
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/15/2015
+                                    ",06/03/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            AAPL
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/15/2015
+                                    ",06/03/2015,Roberts,Pat,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            NFLX
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/06/2015
+                                    ",06/03/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            COST
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/06/2015
+                                    ",06/03/2015,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            NFLX
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+KORS
+","
+                                        
+                                            Michael Kors Holdings Limited (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+AMGN
+","
+                                        
+                                            Amgen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+BAC
+","
+                                        
+                                            Bank of America Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/18/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+CY
+","
+                                        
+                                            Cypress Semiconductor Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/18/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+RTN
+","
+                                        
+                                            Raytheon Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/07/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+PCAR
+","
+                                        
+                                            PACCAR Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/07/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+PRU
+","
+                                        
+                                            Prudential Financial, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+FEYE
+","
+                                        
+                                            FireEye, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+MRK
+","
+                                        
+                                            Merck & Co. Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        05/27/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Sale (Full),"
+TU
+","
+                                        
+                                            TELUS Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/07/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+NFLX
+","
+                                        
+                                            Netflix, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        05/07/2015
+                                    ",06/03/2015,Whitehouse,Sheldon,Purchase,"
+BIIB
+","
+                                        
+                                            Biogen Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

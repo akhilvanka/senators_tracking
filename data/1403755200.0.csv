@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        06/24/2014
+                                    ",06/26/2014,Chambliss,Saxby,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/23/2014
+                                    ",06/26/2014,Chambliss,Saxby,Sale (Full),"
+SNV
+","
+                                        
+                                            Synovus Financial Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        06/23/2014
+                                    ",06/26/2014,Chambliss,Saxby,Sale (Partial),"
+BGY
+","
+                                        
+                                            BLACKROCK INTERNATIONAL, LTD. B (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        06/24/2014
+                                    ",06/26/2014,Toomey,Patrick J,Purchase,"
+AMLP
+","
+                                        
+                                            ALPS Alerian MLP ETF
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

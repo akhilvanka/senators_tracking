@@ -1,0 +1,34 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        02/21/2014
+                                    ",03/06/2014,Carper,Thomas R,Purchase,"
+SJR
+","
+                                        
+                                            Shaw Communications, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/27/2014
+                                    ",03/06/2014,Carper,Thomas R,Sale (Full),"
+EC
+","
+                                        
+                                            Ecopetrol SA (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        02/27/2014
+                                    ",03/06/2014,Carper,Thomas R,Purchase,"
+RIG
+","
+                                        
+                                            Transocean Ltd. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

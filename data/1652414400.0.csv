@@ -1,0 +1,75 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        04/11/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Sale (Full),"
+SQ
+","
+                                        
+                                            Block, Inc. Class A Common Stock,
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        04/11/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Purchase,"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        04/28/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        04/28/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Purchase,"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Call Strike price: $135.00
+                                                
+Expires: 09/16/2022
+                                            
+","$1,001 - $15,000"
+"
+                                        04/28/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Sale (Full),"
+PYPL
+","
+                                        
+                                            PayPal Holdings, Inc. - Common Stock
+                                        
+                                        
+                                        
+                                            Option Type: Short Sale Strike price: $125.00
+                                                
+Expires: 06/16/2023
+                                            
+","$50,001 - $100,000"
+"
+                                        04/21/2022
+                                    ",05/13/2022,Tuberville,Thomas H,Purchase,"
+ECOM
+","
+                                        
+                                            ChannelAdvisor Corporation Common Stock
+                                        
+                                        
+                                        
+                                    ","$100,001 - $250,000"

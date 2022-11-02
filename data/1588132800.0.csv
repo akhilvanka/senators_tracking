@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/03/2020
+                                    ",04/29/2020,Capito,Shelley M,Purchase,"
+JPM
+","
+                                        
+                                            JPMorgan Chase & Co.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/03/2020
+                                    ",04/29/2020,Capito,Shelley M,Purchase,"
+MSFT
+","
+                                        
+                                            Microsoft Corporation
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/03/2020
+                                    ",04/29/2020,Capito,Shelley M,Purchase,"
+JNJ
+","
+                                        
+                                            Johnson & Johnson
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/03/2020
+                                    ",04/29/2020,Capito,Shelley M,Purchase,"
+ABT
+","
+                                        
+                                            Abbott Laboratories
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

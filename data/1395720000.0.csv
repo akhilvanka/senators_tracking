@@ -1,0 +1,45 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        03/18/2014
+                                    ",03/25/2014,Collins,Susan M,Sale (Partial),"
+AIG
+","
+                                        
+                                            American International Group, Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2014
+                                    ",03/25/2014,Collins,Susan M,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/19/2014
+                                    ",03/25/2014,Collins,Susan M,Sale (Partial),"
+CRM
+","
+                                        
+                                            Salesforce.com, Inc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        03/14/2014
+                                    ",03/25/2014,Collins,Susan M,Sale (Partial),"
+AEP
+","
+                                        
+                                            American Electric Power Co., Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

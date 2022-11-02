@@ -1,0 +1,48 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        08/25/2021
+                                    ",09/15/2021,Capito,Shelley M,Purchase,"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/17/2021
+                                    ",09/15/2021,Capito,Shelley M,Sale (Partial),"
+MSFT
+","
+                                        
+                                            Microsoft Corporation - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        08/17/2021
+                                    ",09/15/2021,Capito,Shelley M,Sale (Partial),"
+AAPL
+","
+                                        
+                                            Apple Inc. - Common Stock
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        09/03/2021
+                                    ",09/15/2021,"McConnell, Jr.",A. Mitchell,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            WFC - Wells Fargo & Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"

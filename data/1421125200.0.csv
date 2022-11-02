@@ -1,0 +1,370 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        12/31/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Renasant Trust Mda
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+LNCO
+","
+                                        
+                                            Linn Co, LLC (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/26/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+GILD
+","
+                                        
+                                            Gilead Sciences Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/31/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Renasant Trust Mda
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/29/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+COP
+","
+                                        
+                                            ConocoPhillips (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/22/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+AXP
+","
+                                        
+                                            American Express Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/10/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+ETN
+","
+                                        
+                                            Eaton Corporation plc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/05/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+MRO
+","
+                                        
+                                            Marathon Oil Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/03/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+CTRX
+","
+                                        
+                                            Catamaran Corporation (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+FLRN
+","
+                                        
+                                            SPDR Barclays Investment Grd Fl Rt ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+MDY
+","
+                                        
+                                            SPDR S&P MidCap 400 ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+SDY
+","
+                                        
+                                            SPDR S&P Dividend ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+JNK
+","
+                                        
+                                            SPDR Barclays High Yield Bond ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+EMLC
+","
+                                        
+                                            Market Vectors EM Local Currency Bd ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        01/09/2015
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+EMB
+","
+                                        
+                                            iShares JPMorgan USD Emerg Markets Bond (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+IWF
+","
+                                        
+                                            iShares Russell 1000 Growth (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+IWM
+","
+                                        
+                                            iShares Russell 2000 (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+IWD
+","
+                                        
+                                            iShares Russell 1000 Value (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+EEM
+","
+                                        
+                                            iShares MSCI Emerging Markets (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+EFA
+","
+                                        
+                                            iShares MSCI EAFE (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+AGG
+","
+                                        
+                                            iShares Core US Aggregate Bond (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/09/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+QAI
+","
+                                        
+                                            IQ Hedge Multi-Strategy Tracker ETF (NYSEArca)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+VGRAX
+","
+                                        
+                                            Invesco Mid Cap Growth A (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/15/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+ACEIX
+","
+                                        
+                                            Invesco Equity and Income A (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/22/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+RAD
+","
+                                        
+                                            Rite Aid Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/18/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+WCC
+","
+                                        
+                                            WESCO International Inc. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/18/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+VPFG
+","
+                                        
+                                            ViewPoint Financial Group, Inc. (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/17/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+GE
+","
+                                        
+                                            General Electric Company (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/17/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+STE
+","
+                                        
+                                            Steris Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/17/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+VILLX
+","
+                                        
+                                            Villere Balanced Inv (NASDAQ)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+RXN
+","
+                                        
+                                            Rexnord Corporation (NYSE)
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        12/12/2014
+                                    ",01/13/2015,Cochran,Thad,Sale (Full),"
+PNR
+","
+                                        
+                                            Pentair plc (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        12/05/2014
+                                    ",01/13/2015,Cochran,Thad,Purchase,"
+STE
+","
+                                        
+                                            Steris Corp. (NYSE)
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"

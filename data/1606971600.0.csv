@@ -1,0 +1,170 @@
+tx_date,file_date,last_name,first_name,order_type,ticker,asset_name,tx_amount
+"
+                                        11/16/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/16/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+V
+","
+                                        
+                                            Visa Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/24/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+COST
+","
+                                        
+                                            Costco Wholesale Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/09/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+BA
+","
+                                        
+                                            The Boeing Company
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/11/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            msft
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+NVDA
+","
+                                        
+                                            NVIDIA Corporation
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/17/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+W
+","
+                                        
+                                            Wayfair Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/16/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+DAL
+","
+                                        
+                                            Delta Air Lines, Inc.
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/16/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            Walmart Inc.
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/10/2020
+                                    ",12/03/2020,Roberts,Pat,Purchase,"
+DIS
+","
+                                        
+                                            The Walt Disney Company
+                                        
+                                        
+                                        
+                                    ","$1,001 - $15,000"
+"
+                                        11/09/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Partial),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            aapl
+                                        
+                                        
+                                        
+                                    ","$50,001 - $100,000"
+"
+                                        11/09/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            ba
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
+"
+                                        11/04/2020
+                                    ",12/03/2020,Roberts,Pat,Sale (Full),"
+                                        
+                                            --
+                                        
+                                        
+                                    ","
+                                        
+                                            zm
+                                        
+                                        
+                                        
+                                    ","$15,001 - $50,000"
