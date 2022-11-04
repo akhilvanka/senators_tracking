@@ -1,5 +1,6 @@
 from flask import Flask
 import pandas as pd
+from flask_cors import CORS, cross_origin
 
 import os
 import csv 
@@ -7,6 +8,7 @@ import json
 
 
 app = Flask(__name__)
+CORS(app)
 
 def removew(d):
     for k, v in d.items():
@@ -38,6 +40,22 @@ def make_json(csvFilePath):
     removew(data)
     return json.dumps(data, indent=4)
 
+def whitespace_remover(dataframe):
+   
+    # iterating over the columns
+    for i in dataframe.columns:
+         
+        # checking datatype of each columns
+        if dataframe[i].dtype == 'object':
+             
+            # applying strip function on column
+            dataframe[i] = dataframe[i].map(str.strip)
+        else:
+             
+            # if condn. is False then it will do nothing.
+            pass
+
+
 @app.route('/api/request')
 def format():
     dataList = os.listdir('data')
@@ -46,8 +64,8 @@ def format():
     recentList = ["~/api/data/" + s for s in recentList]
     recentCSV = pd.DataFrame()
     recentCSV = pd.concat(map(pd.read_csv, recentList))
-    recentCSV.to_csv('recent.csv', index=False)
-    return make_json('recent.csv')
+    whitespace_remover(recentCSV)
+    return recentCSV.to_json(orient ='records')
 
 if __name__ == '__main__':
     app.run()
