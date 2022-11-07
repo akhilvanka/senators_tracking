@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 import pandas as pd
 from flask_cors import CORS, cross_origin
 
@@ -66,6 +66,11 @@ def format():
     recentCSV = pd.concat(map(pd.read_csv, recentList))
     whitespace_remover(recentCSV)
     return recentCSV.to_json(orient ='records')
+
+
+@app.route('/plotly')
+def plot(): 
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run()
